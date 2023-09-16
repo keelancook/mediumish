@@ -27,7 +27,7 @@ image: assets/images/family-photo.jpg
 
 <p>I want all of that content to be as accessible as possible, so the new format allows multiple ways to interact with these articles. First, you can find the normal blog feed of articles on the homepage. There, you will see a couple of featured posts at the top. These may change over time. Below them will be the regular roll of articles.</p> 
 
-<p>In addition to the main article list, you can search based on categories at the bottom of the page. The list of article categories is listed next to "Explore". You can click on any category to see those posts.
+<p>In addition to the main article list, you can search based on categories at the bottom of the page. The list of article categories is listed next to "Explore". You can click on any category to see those posts.</p>
 
 <h3>The Commonplace Book</h3>
 <p>In addition to complete articles, I am trying something new on this site by including a live look at many of my research notes with an online commonplace book. On this portion of the site, you can scroll through linked notes of research and smaller, often incomplete notes concerning church and mission. I am hopeful that this experiment serves as another resource in addition to helping me "think in public" along with the input of others.</p>
