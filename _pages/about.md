@@ -52,14 +52,14 @@ Finally, I included a place on this new site to pull together some video content
 <div class="sticky-top sticky-top-80">
 <h5>Connect</h5>
 
-<p>You can find me on a handful of social media platforms. <i>Email is your best shot at getting a quick response from me.</i>. I check email regularly. The other platforms (Twitter, Facebook and LinkedIn) I use much less frequently. At this point, my Twitter account is mostly schedule links to articles with an occasional live tweet from me here or there. I often go a week without looking at it. As for Facebook and Linked in, I go months at a time without viewing those. If you attempt to contact me at those, it may be weeks before you get a response simply because I may not see it.</p>
+<p><i>Email is your best shot at getting a quick response from me.</i></p>
 
 <ul>
-  <li><a rel="me" href="mailto:kcook@sebts.edu"><i class="fab fa-mail"></i>Email</a></li>
-  <li><a rel="me" href="https://twitter.com/keelancook"><i class="fab fa-twitter"></i>Twitter</a></li>
-  <li><a rel="me" href="https://facebook.com/keelancook"><i class="fab fa-facebook"></i>Facebook</a></li>
-  <li><a rel="me" href="https://linkedin/in/keelancook"><i class="fab fa-linkedin"></i>LinkedIn</a></li>
-  <li><a rel="me" href="https://mastodon.social/@keelan"><i class="fab fa-mastodon"></i>Mastodon</a></li>
+  <li><a rel="me" href="mailto:kcook@sebts.edu"><i class="fab fa-email"></i> Email</a></li>
+  <li><a rel="me" href="https://twitter.com/keelancook"><i class="fab fa-twitter"></i> Twitter</a></li>
+  <li><a rel="me" href="https://facebook.com/keelancook"><i class="fab fa-facebook"></i> Facebook</a></li>
+  <li><a rel="me" href="https://linkedin/in/keelancook"><i class="fab fa-linkedin"></i> LinkedIn</a></li>
+  <li><a rel="me" href="https://mastodon.social/@keelan"><i class="fab fa-mastodon"></i> Mastodon</a></li>
 </ul>
 
 <a target="_blank" href="https://www.wowthemes.net/donate/" class="btn btn-danger">Buy me a coffee</a> <a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/" class="btn btn-warning">Documentation</a>
