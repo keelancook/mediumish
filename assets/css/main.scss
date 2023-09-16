@@ -22,6 +22,29 @@ blockquote {
     color: rgba(0, 0, 0, .5);
 }
 
+/* Changing the color of subscribe button, and likely other buttons. It was #1C9963*/
+.btn.follow {
+    border-color: #005875;
+    color: #005875;
+    padding: 3px 10px;
+    text-align: center;
+    border-radius: 999em;
+    font-size: 0.85rem;
+    display: inline-block;
+}
+
+.btn.subscribe {
+    background-color: #005875;
+    border-color: #005875;
+    color: rgba(255, 255, 255, 1);
+    fill: rgba(255, 255, 255, 1);
+    border-radius: 30px;
+    font-size: 0.85rem;
+    margin-left: 10px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
 /* Increase the size of the header logo on the main header.*/
 .mediumnavigation .navbar-brand img {
     max-height: 50px;
