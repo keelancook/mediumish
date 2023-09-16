@@ -16,7 +16,7 @@ image: assets/images/family-photo.jpg
 <p>I continue to do a lot of research and writing because of my particular ministry assignment, and I regularly pray it is a benefit to the local church. I hope this space provides an easy way to share that work with others and as a source of edification for you. If you want to know more about my current and previous work, feel free to browse my [Curriculum Vitae](https://keelancook.com/cv).</p>
 
 <h2>Connect</h2>
-You can find me on a handful of social media platforms. **Email is your best shot at getting a quick response from me.**. I check email regularly. The other platforms (Twitter, Facebook and LinkedIn) I use much less frequently. At this point, my Twitter account is mostly schedule links to articles with an occasional live tweet from me here or there. I often go a week without looking at it. As for Facebook and Linked in, I go months at a time without viewing those. If you attempt to contact me at those, it may be weeks before you get a response simply because I may not see it.
+<p>You can find me on a handful of social media platforms. **Email is your best shot at getting a quick response from me.**. I check email regularly. The other platforms (Twitter, Facebook and LinkedIn) I use much less frequently. At this point, my Twitter account is mostly schedule links to articles with an occasional live tweet from me here or there. I often go a week without looking at it. As for Facebook and Linked in, I go months at a time without viewing those. If you attempt to contact me at those, it may be weeks before you get a response simply because I may not see it.</p>
 * [Email](mailto:kcook@sebts.edu)
 * [Twitter](https://twitter.com/keelancook)
 * [Facebook](https://facebook.com/keelancook)
@@ -50,9 +50,17 @@ Finally, I included a place on this new site to pull together some video content
 <div class="col-md-4">
 
 <div class="sticky-top sticky-top-80">
-<h5>Buy me a coffee</h5>
+<h5>Connect</h5>
 
-<p>Thank you for your support! Your donation helps me to maintain and improve <a target="_blank" href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Mediumish <i class="fab fa-github"></i></a>.</p>
+<p>You can find me on a handful of social media platforms. <i>Email is your best shot at getting a quick response from me.</i>. I check email regularly. The other platforms (Twitter, Facebook and LinkedIn) I use much less frequently. At this point, my Twitter account is mostly schedule links to articles with an occasional live tweet from me here or there. I often go a week without looking at it. As for Facebook and Linked in, I go months at a time without viewing those. If you attempt to contact me at those, it may be weeks before you get a response simply because I may not see it.</p>
+
+<ul>
+  <li><a rel="me" href="mailto:kcook@sebts.edu"><i class="fab fa-mail"></i>Email</a></li>
+  <li><a rel="me" href="https://twitter.com/keelancook"><i class="fab fa-twitter"></i>Twitter</a></li>
+  <li><a rel="me" href="https://facebook.com/keelancook"><i class="fab fa-facebook"></i>Facebook</a></li>
+  <li><a rel="me" href="https://linkedin/in/keelancook"><i class="fab fa-linkedin"></i>LinkedIn</a></li>
+  <li><a rel="me" href="https://mastodon.social/@keelan"><i class="fab fa-mastodon"></i>Mastodon</a></li>
+</ul>
 
 <a target="_blank" href="https://www.wowthemes.net/donate/" class="btn btn-danger">Buy me a coffee</a> <a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/" class="btn btn-warning">Documentation</a>
 
