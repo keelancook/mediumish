@@ -14,10 +14,10 @@ comments: false
 <h2>My Commonplace Book</h2>
 
 <img src="https://i.imgur.com/BzZOtqw.png">
-<br>
+<p></p>
 <p>The commonplace book has a long history and deep roots. For hundreds of years, scholars, writers, and thinkers carried what amounts to a scrapbook that they used to compile all of their notes.</p>
 
-<p>Primarily, the notes in [my commonplace book](https://keelan.wiki) will deal with topics of theology and ministry. By thinking in public, instead of keeping these notes closed up, I hope my thoughts here will benefit others. And perhaps, these thoughts will be sharpened as well.<p>
+<p>Primarily, the notes in [my commonplace book](https://keelan.wiki) will deal with topics of theology and ministry. By thinking in public, instead of keeping these notes closed up, I hope my thoughts here will benefit others. And perhaps, these thoughts will be sharpened as well.</p>
 
 <hr>
 
