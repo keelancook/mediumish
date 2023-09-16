@@ -54,8 +54,8 @@ Finally, I included a place on this new site to pull together some video content
 
 <p><i>Email is your best shot at getting a quick response from me.</i></p>
 
-<ul>
-  <li><a rel="me" href="mailto:kcook@sebts.edu"><i class="fab fa-email"></i> Email</a></li>
+<ul style="list-style-type:none;">
+  <li><a rel="me" href="mailto:kcook@sebts.edu"><i class="fab fa-envelope"></i> Email</a></li>
   <li><a rel="me" href="https://twitter.com/keelancook"><i class="fab fa-twitter"></i> Twitter</a></li>
   <li><a rel="me" href="https://facebook.com/keelancook"><i class="fab fa-facebook"></i> Facebook</a></li>
   <li><a rel="me" href="https://linkedin/in/keelancook"><i class="fab fa-linkedin"></i> LinkedIn</a></li>
