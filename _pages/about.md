@@ -59,11 +59,9 @@ image: assets/images/family-photo.jpg
 </ul>
 
 <h5>Buy Some Books</h5>
-One of the the things I really enjoy doing with this site is find good deals on Christian theology and practical ministry books and providing those to readers. You'll see a lot of links sprinkled through articles and book lists on the site for books, and they usually point to a Kindle version of the book.
+<p>One of the the things I really enjoy doing with this site is find good deals on Christian theology and practical ministry books and providing those to readers. For instance, I have this button here set up to search Kindle's daily deals specifically for Christian books.</p>
 
-I try to glance around on Amazon periodically to see if I can find any good deals on works that would interest people that visit this site. For instance, I have this button here set up to search Kindle's daily deals specifically for Christian books. 
-
-If you're interested in seeing today's deals, give it a try!
+<p>If you're interested in seeing today's deals, give it a try!</p>
 
 <a target="_blank" href="https://amzn.to/48f1wpo" class="btn btn-warning">Kindle Deals</a> 
 </div>
