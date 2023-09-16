@@ -10,7 +10,8 @@ image: assets/images/family-photo.jpg
 <div class="col-md-8 pr-5">
 
 <img src="https://i.imgur.com/ZIp78o3.jpg">
-
+<br>
+<br>
 <p>My name is Keelan Cook. I'm married to Meredith and we have two little kids, Nora and Ezra. I recently took the role of George Liele Director for the <a href="https://thecgcs.org">Center for Great Commission Studies</a> at <a href="https://sebts.edu"> Southeastern Baptist Theological Seminary</a> where I also serve on faculty teaching Christian missions.</p>
 
 <p>Before we moved back to Wake Forest, we lived in Houston, TX where I served with the <a href="https://ubahouston.org"> Union Baptist Association</a> as an associate director. I've worked overseas as a missionary in a Muslim region of West Africa, and I've done a good bit of research on diaspora and urban missions.</p>
@@ -57,9 +58,14 @@ image: assets/images/family-photo.jpg
   <li><a rel="me" href="https://mastodon.social/@keelan"><i class="fab fa-mastodon"></i> Mastodon</a></li>
 </ul>
 
-<p><i>Do I want to do anything with these? I could use call to action buttons to link to an Amazon book list or something, maybe.</i></p>
-<a target="_blank" href="https://www.wowthemes.net/donate/" class="btn btn-danger">Buy me a coffee</a> <a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/" class="btn btn-warning">Documentation</a>
+<h5>Buy Some Books</h5>
+One of the the things I really enjoy doing with this site is find good deals on Christian theology and practical ministry books and providing those to readers. You'll see a lot of links sprinkled through articles and book lists on the site for books, and they usually point to a Kindle version of the book.
 
+I try to glance around on Amazon periodically to see if I can find any good deals on works that would interest people that visit this site. For instance, I have this button here set up to search Kindle's daily deals specifically for Christian books. 
+
+If you're interested in seeing today's deals, give it a try!
+
+<a target="_blank" href="https://amzn.to/48f1wpo" class="btn btn-warning">Kindle Deals</a> 
 </div>
 </div>
 </div>
