@@ -46,9 +46,9 @@ comments: false
 
 <div class="col-md-4">
 
-<div class="sticky-top sticky-top-80">
-<h5>Connect with Me</h5>
-<i>Email is your best shot at getting a quick response from me. I rarely check social media at this point.</i>
+<div class="sticky-top sticky-top-75">
+<h5>Contact Info</h5>
+<i>Email is your best shot at getting a quick response. I rarely check social media.</i>
 
 <ul style="list-style-type:none;">
   <li><a rel="me" href="mailto:kcook@sebts.edu"><i class="fa fa-envelope"></i> Email</a></li>
@@ -59,9 +59,7 @@ comments: false
 </ul>
 
 <h5>Buy Some Books</h5>
-<p>I really enjoy finding deals on Christian theology and practical ministry books and providing those to readers. For instance, I have this button here set up to search Kindle's daily deals specifically for Christian books.</p>
-
-<p>If you're interested in seeing today's deals, give it a try!</p>
+<p>I enjoy finding deals on Christian theology and ministry books for readers. This button searches Kindle's daily deals specifically for Christian books. If you're interested in seeing today's deals, give it a try!</p>
 
 <a target="_blank" href="https://amzn.to/48f1wpo" class="btn btn-warning">Kindle Deals</a> 
 </div>
