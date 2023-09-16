@@ -22,7 +22,7 @@ blockquote {
     color: rgba(0, 0, 0, .5);
 }
 
-/* Changing the color of subscribe button, and likely other buttons. It was #1C9963*/
+/* Changing the color of follow button, and likely other buttons. It was #1C9963*/
 .btn.follow {
     border-color: #005875;
     color: #005875;
@@ -45,6 +45,11 @@ blockquote {
     text-transform: uppercase;
 }
 
+/* Changing the color of subscribe button in the newsletter bar at the bottom of the page. It was #1C9963*/
+.alertbar input[type="submit"] {
+    background-color: #005875;
+    border: 1px solid #005875;
+}
 /* Increase the size of the header logo on the main header.*/
 .mediumnavigation .navbar-brand img {
     max-height: 50px;
