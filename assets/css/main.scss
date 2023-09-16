@@ -45,6 +45,11 @@ blockquote {
     text-transform: uppercase;
 }
 
+.btn.warning {
+    position: relative;
+    z-index: 0;
+}
+
 /* Changing the color of subscribe button in the newsletter bar at the bottom of the page. It was #1C9963*/
 .alertbar input[type="submit"] {
     background-color: #005875;
