@@ -59,7 +59,7 @@ image: assets/images/family-photo.jpg
 </ul>
 
 <h5>Buy Some Books</h5>
-<p>One of the the things I really enjoy doing with this site is find good deals on Christian theology and practical ministry books and providing those to readers. For instance, I have this button here set up to search Kindle's daily deals specifically for Christian books.</p>
+<p>I really enjoy finding good deals on Christian theology and practical ministry books and providing those to readers. For instance, I have this button here set up to search Kindle's daily deals specifically for Christian books.</p>
 
 <p>If you're interested in seeing today's deals, give it a try!</p>
 

@@ -8,7 +8,28 @@
 	display:inline;
 }
 
-/* Attempting to increase the size of the header logo.*/
+/* Changing the color of link text throughout the theme. It was: #00ab6b*/
+a {
+    color: #00587E;
+    transition: all 0.2s;
+}
+
+/* Changing the color of block quote border for the theme. It was #00ab6b*/
+blockquote {
+    border-left: 4px solid #00587E;
+    padding: 0 20px;
+    font-style: italic;
+    color: rgba(0, 0, 0, .5);
+}
+
+/* Changing the color of the form button for the theme. It was "green".*/
+.mediumnavigation .form-inline .btn:hover,
+.mediumnavigation .form-inline .btn:active {
+    background: transparent;
+    color: #00587E;
+}
+
+/* Increase the size of the header logo on the main header.*/
 .mediumnavigation .navbar-brand img {
     max-height: 50px;
     margin-right: 5px;
