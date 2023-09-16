@@ -63,7 +63,7 @@ image: assets/images/family-photo.jpg
 
 <p>If you're interested in seeing today's deals, give it a try!</p>
 
-<a target="_blank" href="https://amzn.to/48f1wpo" class="btn btn-warning">Kindle Deals</a> 
+<a target="_blank" href="https://amzn.to/48f1wpo" class="btn btn-warning{position: fixed; z-index: 0;}">Kindle Deals</a> 
 </div>
 </div>
 </div>
