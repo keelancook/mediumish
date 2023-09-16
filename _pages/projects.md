@@ -5,6 +5,9 @@ permalink: /projects
 comments: false
 ---
 
+<div class="row justify-content-between">
+<div class="col-md-8 pr-5">
+
 The following are different projects with which I am involved. Some of these are personal projects, like the commonplace book, and others are collaborative projects like Peoples Next Door and the initiatives in church renewal.
 
 ## My Commonplace Book
@@ -34,3 +37,6 @@ Revitalization has been a topic for a while, but as the generational turnover an
 * [Replanting Focuses on Giving Struggling Churches New Life](https://www.baptiststandard.com/news/texas/replanting-focuses-on-giving-struggling-churches-new-life/)
 * [What's All This Talk About Replanting?](https://www.ubahouston.org/blog/2019/1/10/what-is-all-this-talk-about-replanting)
 * [Using the Fourfold Panorama with Keelan Cook (Podcast)](https://replantbootcamp.com/podcast/ep23/)
+
+</div>
+</div>
