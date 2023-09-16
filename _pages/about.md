@@ -25,7 +25,7 @@ image: assets/images/family-photo.jpg
 <p>However, this site views that purpose through a wide-angle lens. Future posts may deal with pastoral ministry, theology, church history, current events and cultural exegesis, or even practical advice for students on how to be faithful in their studies. This website will accomplish this in at least three ways:</p>
 
 <h3>The Blog</h3>
-<p>Articles have always been the backbone of this website. The site's main intergace is a blog where I plan to continue writing for the church and hopefully incorporating other voices as well along the way. In addition to this new content, this website hosts hundreds of articles I have written over the course of a decade.</p>
+<p>Articles have always been the backbone of this website. The site's main interface is a blog where I plan to continue writing for the church and hopefully incorporating other voices as well along the way. In addition to this new content, this website hosts hundreds of articles I have written over the course of a decade.</p>
 
 <p>I want all of that content to be as accessible as possible, so the new format allows multiple ways to interact with these articles. First, you can find the normal blog feed of articles on the homepage. There, you will see a couple of featured posts at the top. These may change over time. Below them will be the regular roll of articles.</p> 
 
