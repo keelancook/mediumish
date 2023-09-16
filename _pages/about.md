@@ -46,7 +46,7 @@ image: assets/images/family-photo.jpg
 
 <div class="col-md-4">
 
-<div class="sticky-top sticky-top-80">
+<div class="sticky-top sticky-top-50">
 <h5>Connect with Me</h5>
 <i>Email is your best shot at getting a quick response from me. I rarely check social media at this point.</i>
 
@@ -63,7 +63,7 @@ image: assets/images/family-photo.jpg
 
 <p>If you're interested in seeing today's deals, give it a try!</p>
 
-<a target="_blank" href="https://amzn.to/48f1wpo" class="btn btn-warning{position: fixed; z-index: 0;}">Kindle Deals</a> 
+<a target="_blank" href="https://amzn.to/48f1wpo" class="btn btn-warning">Kindle Deals</a> 
 </div>
 </div>
 </div>
