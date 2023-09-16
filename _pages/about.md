@@ -46,7 +46,7 @@ image: assets/images/family-photo.jpg
 
 <div class="col-md-4">
 
-<div class="sticky-top sticky-top-80">
+<div class="sticky-top sticky-top-75">
 <h5>Contact Info</h5>
 <i>Email is your best shot at getting a quick response. I rarely check social media.</i>
 
