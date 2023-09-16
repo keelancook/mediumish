@@ -47,8 +47,8 @@ image: assets/images/family-photo.jpg
 <div class="col-md-4">
 
 <div class="sticky-top sticky-top-80">
-<h5>Connect with Me</h5>
-<i>Email is your best shot at getting a quick response from me. I rarely check social media at this point.</i>
+<h5>Contact Info</h5>
+<i>Email is your best shot at getting a quick response. I rarely check social media.</i>
 
 <ul style="list-style-type:none;">
   <li><a rel="me" href="mailto:kcook@sebts.edu"><i class="fa fa-envelope"></i> Email</a></li>
