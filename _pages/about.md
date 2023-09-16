@@ -59,9 +59,7 @@ image: assets/images/family-photo.jpg
 </ul>
 
 <h5>Buy Some Books</h5>
-<p>I really enjoy finding deals on Christian theology and practical ministry books and providing those to readers. For instance, I have this button here set up to search Kindle's daily deals specifically for Christian books.</p>
-
-<p>If you're interested in seeing today's deals, give it a try!</p>
+<p>I enjoy finding deals on Christian theology and ministry books for readers. This button searches Kindle's daily deals specifically for Christian books. If you're interested in seeing today's deals, give it a try!</p>
 
 <a target="_blank" href="https://amzn.to/48f1wpo" class="btn btn-warning">Kindle Deals</a> 
 </div>
