@@ -9,6 +9,8 @@ image: assets/images/family-photo.jpg
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
+<img src="https://i.imgur.com/ZIp78o3.jpg">
+
 <p>My name is Keelan Cook. I'm married to Meredith and we have two little kids, Nora and Ezra. I recently took the role of George Liele Director for the <a href="https://thecgcs.org">Center for Great Commission Studies</a> at <a href="https://sebts.edu"> Southeastern Baptist Theological Seminary</a> where I also serve on faculty teaching Christian missions.</p>
 
 <p>Before we moved back to Wake Forest, we lived in Houston, TX where I served with the <a href="https://ubahouston.org"> Union Baptist Association</a> as an associate director. I've worked overseas as a missionary in a Muslim region of West Africa, and I've done a good bit of research on diaspora and urban missions.</p>
@@ -45,8 +47,7 @@ image: assets/images/family-photo.jpg
 
 <div class="sticky-top sticky-top-80">
 <h5>Connect with Me</h5>
-
-<br><i>Email is your best shot at getting a quick response from me.</i></br>
+<i>Email is your best shot at getting a quick response from me.</i>
 
 <ul style="list-style-type:none;">
   <li><a rel="me" href="mailto:kcook@sebts.edu"><i class="fa fa-envelope"></i> Email</a></li>
