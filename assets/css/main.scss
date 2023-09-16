@@ -22,13 +22,6 @@ blockquote {
     color: rgba(0, 0, 0, .5);
 }
 
-/* Changing the color of the form button for the theme. It was "green".*/
-.mediumnavigation .form-inline .btn:hover,
-.mediumnavigation .form-inline .btn:active {
-    background: transparent;
-    color: blue;
-}
-
 /* Increase the size of the header logo on the main header.*/
 .mediumnavigation .navbar-brand img {
     max-height: 50px;
