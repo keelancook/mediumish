@@ -17,7 +17,7 @@ comments: false
 <p></p>
 <p>The commonplace book has a long history and deep roots. For hundreds of years, scholars, writers, and thinkers carried what amounts to a scrapbook that they used to compile all of their notes.</p>
 
-<p>Primarily, the notes in [my commonplace book](https://keelan.wiki) will deal with topics of theology and ministry. By thinking in public, instead of keeping these notes closed up, I hope my thoughts here will benefit others. And perhaps, these thoughts will be sharpened as well.</p>
+<p>Primarily, the notes in <a target="_blank" href="https://keelan.wiki">my commonplace book</a> will deal with topics of theology and ministry. By thinking in public, instead of keeping these notes closed up, I hope my thoughts here will benefit others. And perhaps, these thoughts will be sharpened as well.</p>
 
 <hr>
 
@@ -25,7 +25,7 @@ comments: false
 
 <img src="https://i.imgur.com/qkWO4qa.png">
 <br>
-<p>The [Peoples Next Door](https://peoplesnextdoor.com) project is an effort to equip local churches, associations, conventions, and others to discover and engage international people groups in North America. On the website, you will find articles and resources for engaging internationals with the gospel as well as the occasional musing on missions, both domestic and overseas.</p>
+<p>The <a target="_blank" href="https://peoplesnextdoor.com">Peoples Next Door</a> project is an effort to equip local churches, associations, conventions, and others to discover and engage international people groups in North America. On the website, you will find articles and resources for engaging internationals with the gospel as well as the occasional musing on missions, both domestic and overseas.</p>
 
 <hr>
 
@@ -37,9 +37,9 @@ comments: false
 
 <h3>More on the topic</h3>
 <ul style="list-style-type:none;">
-  <li><a href="https://www.baptiststandard.com/news/texas/replanting-focuses-on-giving-struggling-churches-new-life/">Replanting Focuses on Giving Struggling Churches New Life</a></li>
-  <li><a href="https://www.ubahouston.org/blog/2019/1/10/what-is-all-this-talk-about-replanting">What's All This Talk About Replanting?</a></li>
-  <li><a href="https://replantbootcamp.com/podcast/ep23/">Using the Fourfold Panorama with Keelan Cook (Podcast)</a></li>
+  <li><a target="_blank" href="https://www.baptiststandard.com/news/texas/replanting-focuses-on-giving-struggling-churches-new-life/">Replanting Focuses on Giving Struggling Churches New Life</a></li>
+  <li><a target="_blank" href="https://www.ubahouston.org/blog/2019/1/10/what-is-all-this-talk-about-replanting">What's All This Talk About Replanting?</a></li>
+  <li><a target="_blank" href="https://replantbootcamp.com/podcast/ep23/">Using the Fourfold Panorama with Keelan Cook (Podcast)</a></li>
 </ul>
 
 </div>
@@ -51,11 +51,11 @@ comments: false
 <i>Email is your best shot at getting a quick response. I rarely check social media.</i>
 
 <ul style="list-style-type:none;">
-  <li><a rel="me" href="mailto:kcook@sebts.edu"><i class="fa fa-envelope"></i> Email</a></li>
-  <li><a rel="me" href="https://twitter.com/keelancook"><i class="fab fa-twitter"></i> Twitter</a></li>
-  <li><a rel="me" href="https://facebook.com/keelancook"><i class="fab fa-facebook"></i> Facebook</a></li>
-  <li><a rel="me" href="https://linkedin/in/keelancook"><i class="fab fa-linkedin"></i> LinkedIn</a></li>
-  <li><a rel="me" href="https://mastodon.social/@keelan"><i class="fab fa-mastodon"></i> Mastodon</a></li>
+  <li><a rel="me" target="_blank" href="mailto:kcook@sebts.edu"><i class="fa fa-envelope"></i> Email</a></li>
+  <li><a rel="me" target="_blank" href="https://twitter.com/keelancook"><i class="fab fa-twitter"></i> Twitter</a></li>
+  <li><a rel="me" target="_blank" href="https://facebook.com/keelancook"><i class="fab fa-facebook"></i> Facebook</a></li>
+  <li><a rel="me" target="_blank" href="https://linkedin/in/keelancook"><i class="fab fa-linkedin"></i> LinkedIn</a></li>
+  <li><a rel="me" target="_blank" href="https://mastodon.social/@keelan"><i class="fab fa-mastodon"></i> Mastodon</a></li>
 </ul>
 
 <h5>Buy Some Books</h5>
