@@ -6,10 +6,7 @@ author: keelan
 categories: [ conflict, correction, social media, spiritual formation ]
 featured: false
 hidden: false
-
-header:
-  teaser: /assets/images/handle-with-care.jpg
-  image: /assets/images/handle-with-care.jpg
+image: 
 ---
 
 _This article is the second in a two-part series on Christ's command in Matthew 7:1-5. In this artile, we provide a specific application of this command. This first article provides necessary background and proper interpretation for the passage. You can read it here: [Link to the first Article](https://keelancook.com/?p=4486)._

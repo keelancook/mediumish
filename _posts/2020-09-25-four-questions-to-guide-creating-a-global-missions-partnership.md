@@ -6,6 +6,8 @@ author: keelan
 categories: [ global missions, international missions, missions, sending ]
 featured: false
 hidden: false
+image: "https://unsplash.com/photos/gEKMstKfZ6w"
+
 
 header:
   teaser: /assets/images/missions-partnership.jpg

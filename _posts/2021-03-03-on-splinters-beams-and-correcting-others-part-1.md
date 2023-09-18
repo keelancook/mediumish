@@ -6,10 +6,7 @@ author: keelan
 categories: [ conflict, correction, social media, spiritual formation ]
 featured: false
 hidden: false
-
-header:
-  teaser: /assets/images/splinters-beams.jpg
-  image: /assets/images/splinters-beams.jpg
+image: 
 ---
 
 > Do not judge, so that you won’t be judged.

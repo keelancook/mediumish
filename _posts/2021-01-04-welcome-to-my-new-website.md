@@ -6,10 +6,7 @@ author: keelan
 categories: [ ]
 featured: false
 hidden: false
-
-header:
-  teaser: /assets/images/teaser-image.png
-  image: /assets/images/teaser-image.png
+image: 
 ---
 
 Welcome! If you're reading this, there's a good chance you've been to my website before, probably clicking on an article somewhere along the way. Historically, many of my site visitors are repeat offenders, but that is what I hope for when it comes to the purposes of this site in the first place.
