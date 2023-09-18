@@ -6,7 +6,7 @@ author: keelan
 categories: [ ]
 featured: false
 hidden: false
-image: 
+image: "https://images.unsplash.com/photo-1580191947416-62d35a55e71d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1471&q=80"
 ---
 
 Welcome! If you're reading this, there's a good chance you've been to my website before, probably clicking on an article somewhere along the way. Historically, many of my site visitors are repeat offenders, but that is what I hope for when it comes to the purposes of this site in the first place.

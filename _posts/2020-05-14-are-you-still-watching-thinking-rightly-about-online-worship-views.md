@@ -6,6 +6,7 @@ author: keelan
 categories: [ church, metrics, covid, church growth, membership ]
 featured: false
 hidden: false
+image: "https://images.unsplash.com/photo-1596405367208-63505402f113?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1548&q=80"
 
 header:
   teaser: /assets/images/online-worship-views.jpg

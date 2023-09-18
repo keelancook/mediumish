@@ -6,7 +6,7 @@ author: keelan
 categories: [ ]
 featured: false
 hidden: false
-image: "https://i.imgur.com/DKEyjTb.png"
+image: "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80"
 ---
 
 The Cook family has some big news to share! We want to announce to you Charles Ezra Cook, our second child and first son. We are presently on day six and mug 58 of coffee, but thankful to God for our newest addition to the family.
