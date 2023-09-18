@@ -774,7 +774,7 @@ iframe {
         padding: 0;
         height: 350px;
         border-radius: 0;
-        background-image: url(../images/jumbotron.png); /* Changed jpg file to png. Will need to revert if this doesn't work. */
+        background-image: url(../images/jumbotron.jpg);
         background-size: cover;
     }
 
