@@ -6,7 +6,7 @@ author: keelan
 categories: [ missions, SBC, cooperation, podcasts ]
 featured: false
 hidden: false
-image: "https://unsplash.com/photos/ZDNyhmgkZlQ"
+image: "https://images.unsplash.com/photo-1589903308904-1010c2294adc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80"
 ---
 
 One of the joys of my job is serving as cohost for our seminary's missions podcast, [The Sent Life](https://open.spotify.com/show/7HmzNpfnTnrT62Vu0M64Zm). Scott Hildreth and I talk each week about Christian missions and a whole bundle of topics that relate to it.
