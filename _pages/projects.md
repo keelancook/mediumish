@@ -24,7 +24,7 @@ comments: false
 <h2>Peoples Next Door</h2>
 
 <img src="https://i.imgur.com/qkWO4qa.png">
-<br>
+<p></p>
 <p>The <a target="_blank" href="https://peoplesnextdoor.com">Peoples Next Door</a> project is an effort to equip local churches, associations, conventions, and others to discover and engage international people groups in North America. On the website, you will find articles and resources for engaging internationals with the gospel as well as the occasional musing on missions, both domestic and overseas.</p>
 
 <hr>
@@ -32,7 +32,7 @@ comments: false
 <h2>Church Renewal</h2>
 
 <img src="https://i.imgur.com/YmOtly9.png">
-<br>
+<p></p>
 <p>Revitalization has been a topic for a while, but as the generational turnover and rapid cultural shifts in our nation are occurring, there is a resulting wave of declining churches. The process of replanting steps into that gap. Replanting is often a more radical process than traditional revitalization. It’s the process of relaunching a church with a different identity and structure after a period of intense assessment and reconfiguration.</p>
 
 <h3>More on the topic</h3>
