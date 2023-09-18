@@ -6,11 +6,7 @@ author: keelan
 categories: [ missions, biography ]
 featured: true
 hidden: false
-
-header:
-  teaser: /assets/images/missionary-biographies.jpg
-  image: /assets/images/missionary-biographies.jpg
-
+image: "/assets/images/missionary-biographies.jpg"
 ---
 
 Over the last two weeks, I've seen all kinds of posts recommending book lists for people to consider during our global shut-in. I even wrote one last week suggesting you use this time [to sharpen your Bible study skills](https://blog.keelancook.com/2020/03/now-is-the-time-to-do-that-bible-study-free-resources.html). But the one thing I've not seen recommended yet are missionary biographies. I'm honestly surprised by this omission.

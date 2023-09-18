@@ -4,7 +4,7 @@ title: Welcome to the New Website
 date: "2021-12-19"
 author: keelan
 categories: [ ]
-featured: true
+featured: false
 hidden: false
 
 header:
