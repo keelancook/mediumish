@@ -54,7 +54,7 @@ comments: false
   <li><a rel="me" target="_blank" href="mailto:kcook@sebts.edu"><i class="fa fa-envelope"></i> Email</a></li>
   <li><a rel="me" target="_blank" href="https://twitter.com/keelancook"><i class="fab fa-twitter"></i> Twitter</a></li>
   <li><a rel="me" target="_blank" href="https://facebook.com/keelancook"><i class="fab fa-facebook"></i> Facebook</a></li>
-  <li><a rel="me" target="_blank" href="https://linkedin/in/keelancook"><i class="fab fa-linkedin"></i> LinkedIn</a></li>
+  <li><a rel="me" target="_blank" href="https://linkedin.com/in/keelancook"><i class="fab fa-linkedin"></i> LinkedIn</a></li>
   <li><a rel="me" target="_blank" href="https://mastodon.social/@keelan"><i class="fab fa-mastodon"></i> Mastodon</a></li>
 </ul>
 
