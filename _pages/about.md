@@ -34,7 +34,7 @@ image: assets/images/family-photo.jpg
 <h3>The Commonplace Book</h3>
 <p>In addition to complete articles, I am trying something new on this site by including a live look at many of my research notes with an online commonplace book. On this portion of the site, you can scroll through linked notes of research and smaller, often incomplete notes concerning church and mission. I am hopeful that this experiment serves as another resource in addition to helping me "think in public" along with the input of others.</p>
 
-<p>You can find my commonplace book here: <a target="_blank" href="https://keelan.wiki"> keelan.wiki</a>. And to read more about what this is, check out the <a  target="_blank" href="https://keelan.wiki/about"> About Page</a>.</p>
+<p>You can find my commonplace book here: <a target="_blank" href="https://keelan.wiki"> keelan.wiki</a>. And to read more about what this is, check out the <a  target="_blank" href="https://keelan.wiki/about/"> About Page</a>.</p>
 
 <p>Thanks for reading!</p>
 
