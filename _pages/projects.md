@@ -35,7 +35,7 @@ comments: false
 <p></p>
 <p>Revitalization has been a topic for a while, but as the generational turnover and rapid cultural shifts in our nation are occurring, there is a resulting wave of declining churches. The process of replanting steps into that gap. Replanting is often a more radical process than traditional revitalization. It’s the process of relaunching a church with a different identity and structure after a period of intense assessment and reconfiguration.</p>
 
-<h3>More on the topic</h3>
+<h4>More on the topic</h4>
 <ul style="list-style-type:none;">
   <li><a target="_blank" href="https://www.baptiststandard.com/news/texas/replanting-focuses-on-giving-struggling-churches-new-life/">Replanting Focuses on Giving Struggling Churches New Life</a></li>
   <li><a target="_blank" href="https://www.ubahouston.org/blog/2019/1/10/what-is-all-this-talk-about-replanting">What's All This Talk About Replanting?</a></li>
