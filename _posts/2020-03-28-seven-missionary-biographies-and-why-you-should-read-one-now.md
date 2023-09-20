@@ -6,7 +6,7 @@ author: keelan
 categories: [ missions, biography ]
 featured: true
 hidden: false
-image: "/assets/images/missionary-biographies.jpg"
+image: "https://images.unsplash.com/photo-1491841651911-c44c30c34548?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80"
 rating: 4.5
 beforetoc: "I compiled this article to provide a handy list for people wanting to read their first missionary biography."
 toc: true

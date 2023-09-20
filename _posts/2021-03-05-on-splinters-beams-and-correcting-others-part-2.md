@@ -6,7 +6,7 @@ author: keelan
 categories: [ conflict, correction, social media, spiritual formation ]
 featured: false
 hidden: false
-image: "https://images.unsplash.com/photo-1579869847557-1f67382cc158?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1634&q=80"
+image: "https://images.unsplash.com/photo-1554068292-ce72e2521c9f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80"
 ---
 
 _This article is the second in a two-part series on Christ's command in Matthew 7:1-5. In this artile, we provide a specific application of this command. This first article provides necessary background and proper interpretation for the passage. You can read it here: [Link to the first Article](https://keelancook.com/?p=4486)._
