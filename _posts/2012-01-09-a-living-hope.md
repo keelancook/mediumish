@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A living hope"
+title: "A Living Hope"
 date: "2012-01-09"
 categories: 
   - "bible study"
