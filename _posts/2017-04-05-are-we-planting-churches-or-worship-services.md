@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Are we planting churches or worship services?"
+title: "Are we Planting Churches or Worship Services?"
 date: "2017-04-05"
 categories: 
   - "church planting"

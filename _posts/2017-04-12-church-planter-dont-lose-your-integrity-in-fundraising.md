@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Church Planter: Don't Lose Your Integrity in Fundraising"
+title: "Church Planter, Don't Lose Your Integrity in Fundraising"
 date: "2017-04-12"
 categories: 
   - "church planting"
