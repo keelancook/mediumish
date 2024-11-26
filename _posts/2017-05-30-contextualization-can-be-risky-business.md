@@ -3,7 +3,7 @@ layout: post
 title: "Contextualization Can Be Risky Business"
 date: "2017-05-30"
 categories:
-author: Meredith Cook
+author: meredith
 featured: false
 hidden: false
 image: "https://images.unsplash.com/photo-1541523315198-a00415d424f4?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"

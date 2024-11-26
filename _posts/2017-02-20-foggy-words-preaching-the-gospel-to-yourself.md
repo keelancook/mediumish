@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Foggy Words: \"Preaching the gospel to yourself\""
+title: "Foggy Words: Preaching the gospel to yourself"
 date: "2017-02-20"
 categories: 
   - "community"

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "\"Gospel-centered\" Must Mean More Than the Preaching"
+title: "Gospel-centered Must Mean More Than the Preaching"
 date: "2017-11-14"
 categories: 
   - "evangelism"

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Does our attitude need to be changed? Thoughts after Charlottesville."
+title: "Does Our Attitude Need to be Changed? Thoughts after Charlottesville"
 date: "2017-08-14"
 categories: 
   - "charlottesville protests"

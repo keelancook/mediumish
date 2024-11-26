@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Immigration may beat a century-old record"
+title: "Immigration May Beat a Century-old Record"
 date: "2017-05-08"
 categories: 
   - "america"

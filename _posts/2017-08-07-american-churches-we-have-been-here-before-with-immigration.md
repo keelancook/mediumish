@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "American churches, we have been here before with immigration."
+title: "American Churches, We have Been Here before with Immigration"
 date: "2017-08-07"
 categories: 
   - "home missions"

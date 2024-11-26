@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "\"Missions is the Mother of Theology\""
+title: "Missions is the Mother of Theology"
 date: "2017-04-21"
 categories: 
   - "church"
