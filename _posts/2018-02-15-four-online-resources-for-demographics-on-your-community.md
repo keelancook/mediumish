@@ -3,10 +3,8 @@ layout: post
 title: "Four Online Resources for Demographics on Your Community"
 date: "2018-02-15"
 categories: 
-  - "community data for churches"
-  - "demographic research for chruches"
-  - "how to run a demographic report"
-  - "local church demographic reports"
+  - "community data"
+  - "demographics"
 author: keelan
 featured: false
 hidden: false
