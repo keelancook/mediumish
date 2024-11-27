@@ -6,10 +6,6 @@ categories:
   - "aha moments"
   - "bible study"
   - "discipleship"
-  - "god's sovereignty"
-  - "sin"
-  - "the bible"
-  - "the gospel"
 author: keelan
 featured: false
 hidden: false

@@ -1,14 +1,9 @@
 ---
 layout: post
-title: "Addressing the state of our union"
+title: "Addressing the State of Our Union"
 date: "2011-01-28"
 categories: 
-  - "christian subculture"
   - "culture"
-  - "god's sovereignty"
-  - "plans"
-  - "purpose"
-  - "worlds collide"
 author: keelan
 featured: false
 hidden: false
