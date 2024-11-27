@@ -3,6 +3,10 @@ layout: post
 title: "Covenant Membership is a Contextual Process"
 date: "2016-05-25"
 categories:
+  - "church membership"
+  - "contextualization"
+  - "church"
+  - "pastoral ministry"
 author: keelan
 featured: false
 hidden: false

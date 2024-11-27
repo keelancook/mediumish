@@ -5,7 +5,6 @@ date: "2016-06-17"
 categories: 
   - "cooperation"
   - "missions"
-  - "southern baptist"
 author: keelan
 featured: false
 hidden: false

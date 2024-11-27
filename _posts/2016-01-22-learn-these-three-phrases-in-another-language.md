@@ -6,7 +6,6 @@ categories:
   - "church"
   - "church planting"
   - "great commission"
-  - "language"
   - "missions"
   - "peoples next door"
 author: keelan

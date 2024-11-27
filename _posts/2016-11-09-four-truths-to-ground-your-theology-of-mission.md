@@ -7,7 +7,6 @@ categories:
   - "church"
   - "eschatology"
   - "missions"
-  - "theology of mission"
 author: keelan
 featured: false
 hidden: false

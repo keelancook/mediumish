@@ -4,11 +4,9 @@ title: "How to Map Your Members in Google for Local Outreach"
 date: "2016-09-21"
 categories: 
   - "church"
-  - "google"
-  - "local outreach"
-  - "mapping"
-  - "ministry"
+  - "demographics"
   - "missions"
+  - "resources"
 author: keelan
 featured: false
 hidden: false

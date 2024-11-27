@@ -6,6 +6,7 @@ categories:
   - "church"
   - "church membership"
   - "missions"
+  - "missions strategy"
 author: keelan
 featured: false
 hidden: false
