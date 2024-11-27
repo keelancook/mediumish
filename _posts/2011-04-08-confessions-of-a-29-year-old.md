@@ -4,7 +4,6 @@ title: "Confessions of a 29-year-old"
 date: "2011-04-08"
 categories: 
   - "discipleship"
-  - "the bible"
 author: keelan
 featured: false
 hidden: false

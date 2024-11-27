@@ -7,8 +7,7 @@ categories:
   - "bible study"
   - "culture"
   - "discipleship"
-  - "islam"
-  - "the bible"
+  - "Islam"
 author: keelan
 featured: false
 hidden: false

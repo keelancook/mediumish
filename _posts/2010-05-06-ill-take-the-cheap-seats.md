@@ -3,7 +3,6 @@ layout: post
 title: "I'll Take the Cheap Seats"
 date: "2010-05-06"
 categories: 
-  - "africa"
   - "aha moments"
   - "culture"
   - "missions"

@@ -6,7 +6,6 @@ categories:
   - "bible study"
   - "culture"
   - "discipleship"
-  - "hermeneutics"
 author: keelan
 featured: false
 hidden: false
