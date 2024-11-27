@@ -3,8 +3,7 @@ layout: post
 title: "Here's to you: 15-passenger church van"
 date: "2011-09-05"
 categories: 
-  - "christian subculture"
-  - "church van"
+  - "church"
   - "funny"
   - "heres to you"
 author: keelan

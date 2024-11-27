@@ -5,8 +5,7 @@ date: "2011-08-29"
 categories: 
   - "aha moments"
   - "discipleship"
-  - "gods sovereignty"
-  - "the church"
+  - "church"
 author: keelan
 featured: false
 hidden: false

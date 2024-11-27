@@ -1,12 +1,11 @@
 ---
 layout: post
-title: "An orderly account"
+title: "An Orderly Account"
 date: "2011-10-03"
 categories: 
   - "bible study"
   - "discipleship"
-  - "the bible"
-  - "the church"
+  - "church"
 author: keelan
 featured: false
 hidden: false
