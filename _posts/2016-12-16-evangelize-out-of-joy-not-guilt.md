@@ -6,9 +6,6 @@ categories:
   - "church"
   - "evangelism"
   - "gospel"
-  - "guilt"
-  - "joy"
-  - "motivation"
 author: keelan
 featured: false
 hidden: false

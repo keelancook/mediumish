@@ -3,12 +3,9 @@ layout: post
 title: "Foggy Words that can Sidetrack the Mission"
 date: "2017-01-04"
 categories: 
-  - "christian"
+  - "missions stategy"
   - "discipleship"
-  - "mission"
   - "missions"
-  - "vocabulary"
-  - "words"
 author: keelan
 featured: false
 hidden: false

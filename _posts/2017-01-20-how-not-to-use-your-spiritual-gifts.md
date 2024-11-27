@@ -6,12 +6,8 @@ categories:
   - "church"
   - "discipleship"
   - "evangelism"
-  - "gifting"
-  - "ministry"
-  - "mission"
+  - "missions"
   - "pastoral ministry"
-  - "service"
-  - "spiritual gifts"
 author: keelan
 featured: false
 hidden: false

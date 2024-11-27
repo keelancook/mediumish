@@ -5,8 +5,8 @@ date: "2017-01-30"
 categories: 
   - "gospel"
   - "immigration"
-  - "refugees"
-  - "travel ban"
+  - "diaspora"
+  - "peoples next door"
 author: keelan
 featured: false
 hidden: false

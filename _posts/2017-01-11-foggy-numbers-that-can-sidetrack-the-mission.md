@@ -3,12 +3,9 @@ layout: post
 title: "Foggy Numbers that can Sidetrack the Mission"
 date: "2017-01-11"
 categories: 
-  - "baptisms"
   - "church"
-  - "membership"
-  - "metrics"
+  - "church membership"
   - "missions"
-  - "numbers"
 author: keelan
 featured: false
 hidden: false

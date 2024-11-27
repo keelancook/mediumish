@@ -4,8 +4,7 @@ title: "Can You Love People on Social Media?"
 date: "2017-01-27"
 categories: 
   - "discipleship"
-  - "ministry"
-  - "social-media"
+  - "social media"
 author: keelan
 featured: false
 hidden: false
