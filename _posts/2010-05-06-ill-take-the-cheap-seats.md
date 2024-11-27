@@ -7,7 +7,6 @@ categories:
   - "aha moments"
   - "culture"
   - "missions"
-  - "sacrifice"
 author: keelan
 featured: false
 hidden: false

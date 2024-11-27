@@ -7,7 +7,6 @@ categories:
   - "bible study"
   - "culture"
   - "discipleship"
-  - "the bible"
 author: keelan
 featured: false
 hidden: false

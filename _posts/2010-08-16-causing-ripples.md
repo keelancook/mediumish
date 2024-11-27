@@ -5,8 +5,6 @@ date: "2010-08-16"
 categories: 
   - "bible study"
   - "discipleship"
-  - "the bible"
-  - "vacation"
 author: keelan
 featured: false
 hidden: false

@@ -5,8 +5,6 @@ date: "2010-11-26"
 categories: 
   - "aha moments"
   - "christian subculture"
-  - "holidays"
-  - "thanksgiving"
 author: keelan
 featured: false
 hidden: false

@@ -7,7 +7,6 @@ categories:
   - "culture"
   - "discipleship"
   - "hermeneutics"
-  - "the bible"
 author: keelan
 featured: false
 hidden: false
