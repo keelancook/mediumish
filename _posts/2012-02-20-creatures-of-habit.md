@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Creatures of habit"
+title: "Creatures of Habit"
 date: "2012-02-20"
 categories: 
   - "aha moments"
