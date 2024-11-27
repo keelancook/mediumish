@@ -5,10 +5,6 @@ date: "2012-04-30"
 categories: 
   - "bible-study"
   - "discipleship"
-  - "jesus"
-  - "purpose"
-  - "the-bible"
-  - "the-gospel"
 author: keelan
 featured: false
 hidden: false

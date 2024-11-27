@@ -4,7 +4,6 @@ title: "Becoming mummies"
 date: "2011-10-17"
 categories: 
   - "discipleship"
-  - "mummies"
 author: keelan
 featured: false
 hidden: false

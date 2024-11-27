@@ -4,8 +4,6 @@ title: "An ellipsis in life"
 date: "2011-10-10"
 categories: 
   - "discipleship"
-  - "plans"
-  - "purpose"
 author: keelan
 featured: false
 hidden: false

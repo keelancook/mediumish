@@ -4,12 +4,9 @@ title: "Guilty until Proven Innocent, but That is Not a Bad Thing"
 date: "2012-01-23"
 categories: 
   - "bible study"
-  - "christian subculture"
   - "culture"
   - "discipleship"
-  - "politics"
-  - "public square"
-  - "the church"
+  - "church"
 author: keelan
 featured: false
 hidden: false

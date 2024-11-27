@@ -4,10 +4,7 @@ title: "Building Scarecrows"
 date: "2011-11-29"
 categories: 
   - "christ"
-  - "christian subculture"
   - "discipleship"
-  - "grace"
-  - "the cross"
 author: keelan
 featured: false
 hidden: false

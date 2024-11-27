@@ -1,15 +1,12 @@
 ---
 layout: post
-title: "Did Paul want to be a missionary?"
+title: "Did Paul Want to be a Missionary?"
 date: "2012-03-19"
 categories: 
   - "bible study"
   - "calling"
-  - "christian subculture"
   - "discipleship"
-  - "mission"
-  - "plans"
-  - "purpose"
+  - "missions"
 author: keelan
 featured: false
 hidden: false

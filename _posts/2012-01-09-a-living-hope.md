@@ -5,10 +5,6 @@ date: "2012-01-09"
 categories: 
   - "bible study"
   - "discipleship"
-  - "grace"
-  - "hope"
-  - "resurrection"
-  - "the gospel"
 author: keelan
 featured: false
 hidden: false

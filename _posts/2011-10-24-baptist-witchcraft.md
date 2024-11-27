@@ -4,9 +4,7 @@ title: "Baptist Witchcraft"
 date: "2011-10-24"
 categories: 
   - "christ"
-  - "christian slogans"
-  - "christian subculture"
-  - "the church"
+  - "church"
   - "the cross"
 author: keelan
 featured: false

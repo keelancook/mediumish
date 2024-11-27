@@ -6,7 +6,6 @@ categories:
   - "aha moments"
   - "bible study"
   - "discipleship"
-  - "the bible"
 author: keelan
 featured: false
 hidden: false
