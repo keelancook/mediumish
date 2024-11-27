@@ -5,10 +5,8 @@ date: "2016-02-03"
 categories: 
   - "church"
   - "discipleship"
-  - "equipping"
   - "great commission"
   - "missions"
-  - "residency"
 author: keelan
 featured: false
 hidden: false

@@ -6,11 +6,8 @@ categories:
   - "church"
   - "discipleship"
   - "evangelism"
-  - "ministry"
   - "missions"
-  - "outreach"
   - "small groups"
-  - "storying"
 author: keelan
 featured: false
 hidden: false

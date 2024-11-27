@@ -3,13 +3,9 @@ layout: post
 title: "Breaking Down the Refugee Crisis"
 date: "2016-02-19"
 categories: 
-  - "europe"
-  - "middle-east"
-  - "migrants"
+  - "immigration"
   - "missions"
-  - "peoples-next-door"
-  - "refugees"
-  - "syria"
+  - "peoples next door"
 author: keelan
 featured: false
 hidden: false

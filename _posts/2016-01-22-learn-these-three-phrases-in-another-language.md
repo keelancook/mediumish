@@ -6,10 +6,8 @@ categories:
   - "church"
   - "church planting"
   - "great commission"
-  - "heart language"
   - "language"
   - "missions"
-  - "people groups"
   - "peoples next door"
 author: keelan
 featured: false

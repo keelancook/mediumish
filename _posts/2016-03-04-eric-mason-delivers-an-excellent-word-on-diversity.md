@@ -4,10 +4,7 @@ title: "Eric Mason Delivers an Excellent Word on Diversity"
 date: "2016-03-04"
 categories: 
   - "church planting"
-  - "diversity"
   - "peoples next door"
-  - "urban ministry"
-  - "urban missions"
 author: keelan
 featured: false
 hidden: false

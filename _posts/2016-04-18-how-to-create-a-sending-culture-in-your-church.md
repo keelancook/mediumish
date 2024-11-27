@@ -4,9 +4,8 @@ title: "How to Create a Sending Culture in Your Church."
 date: "2016-04-18"
 categories: 
   - "church planting"
-  - "local church"
+  - "church"
   - "missions"
-  - "sending"
   - "sending church"
 author: keelan
 featured: false

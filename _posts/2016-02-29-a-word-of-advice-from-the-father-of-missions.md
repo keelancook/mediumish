@@ -4,9 +4,7 @@ title: "A Word of Advice from the Father of Missions"
 date: "2016-02-29"
 categories: 
   - "great commission"
-  - "international"
   - "missions"
-  - "william carey"
 author: keelan
 featured: false
 hidden: false

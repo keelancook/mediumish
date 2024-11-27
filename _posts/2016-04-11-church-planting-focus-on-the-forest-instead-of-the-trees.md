@@ -5,10 +5,7 @@ date: "2016-04-11"
 categories: 
   - "church planting"
   - "gospel"
-  - "renewal"
   - "revitalization"
-  - "trees"
-  - "urban ministry"
 author: keelan
 featured: false
 hidden: false

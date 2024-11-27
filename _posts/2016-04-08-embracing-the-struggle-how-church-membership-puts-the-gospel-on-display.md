@@ -6,7 +6,6 @@ categories:
   - "church"
   - "church membership"
   - "gospel"
-  - "ministry"
 author: Trevor King
 featured: false
 hidden: false

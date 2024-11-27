@@ -4,7 +4,7 @@ title: "How to know your neighborhood is gentrifying. (They forgot the Chipotle.
 date: "2016-04-01"
 categories: 
   - "church planting"
-  - "gentrification"
+  - "demographics"
   - "missions"
   - "revitalization"
 author: keelan

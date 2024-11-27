@@ -7,7 +7,6 @@ categories:
   - "evangelism"
   - "missions"
   - "small groups"
-  - "storying"
 author: keelan
 featured: false
 hidden: false
