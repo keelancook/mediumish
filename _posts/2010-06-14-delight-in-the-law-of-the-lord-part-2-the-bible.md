@@ -5,7 +5,6 @@ date: "2010-06-14"
 categories: 
   - "bible study"
   - "discipleship"
-  - "hermeneutics"
 author: keelan
 featured: false
 hidden: false
