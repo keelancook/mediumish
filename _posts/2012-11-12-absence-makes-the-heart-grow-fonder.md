@@ -3,7 +3,7 @@ layout: post
 title: "Absence makes the heart grow fonder"
 date: "2012-11-12"
 categories: 
-  - "discipline"
+  - "discipleship"
 author: keelan
 featured: false
 hidden: false
