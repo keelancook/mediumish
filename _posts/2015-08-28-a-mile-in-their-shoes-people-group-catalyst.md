@@ -3,13 +3,10 @@ layout: post
 title: "A Mile in Their Shoes: People Group Catalyst"
 date: "2015-08-28"
 categories: 
-  - "baptist"
   - "church planting"
   - "culture"
-  - "internationals"
   - "missions"
   - "peoples next door"
-  - "state conventions"
 author: keelan
 featured: false
 hidden: false

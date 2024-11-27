@@ -4,7 +4,6 @@ title: "How to be a Missionary Without Being a \"Missionary\""
 date: "2015-07-21"
 categories: 
   - "church planting"
-  - "missionary"
   - "missions"
   - "peoples next door"
 author: keelan

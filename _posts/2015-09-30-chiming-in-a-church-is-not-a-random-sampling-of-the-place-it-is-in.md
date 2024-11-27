@@ -4,13 +4,9 @@ title: "Chiming in: \"A church is not a random sampling of the place it is in\""
 date: "2015-09-30"
 categories: 
   - "church planting"
-  - "cities"
-  - "ministry"
-  - "mission"
   - "missions"
   - "pastoral ministry"
   - "peoples next door"
-  - "urban"
 author: keelan
 featured: false
 hidden: false

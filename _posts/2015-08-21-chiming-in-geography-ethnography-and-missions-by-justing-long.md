@@ -3,12 +3,9 @@ layout: post
 title: "Chiming in: \"Geography, Ethnography and Missions\" by Justin Long"
 date: "2015-08-21"
 categories: 
-  - "cgcs"
   - "church planting"
   - "contextualization"
-  - "justin long"
   - "missions"
-  - "people groups"
   - "peoples next door"
 author: keelan
 featured: false

@@ -1,11 +1,10 @@
 ---
 layout: post
-title: "A multiplication mindset: The ministry paradigm your church may be missing"
+title: "A Multiplication Mindset: The Ministry Paradigm Your Church may be Missing"
 date: "2015-10-02"
 categories: 
   - "church planting"
   - "missions"
-  - "multiplication"
   - "peoples next door"
 author: keelan
 featured: false

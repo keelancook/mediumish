@@ -6,7 +6,7 @@ categories:
   - "christ"
   - "kingdom"
   - "mission of god"
-  - "the church"
+  - "church"
 author: keelan
 featured: false
 hidden: false

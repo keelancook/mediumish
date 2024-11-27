@@ -4,11 +4,8 @@ title: "In the News: \"The end of suburban white flight\""
 date: "2015-08-26"
 categories: 
   - "demographics"
-  - "diversity"
   - "missions"
   - "peoples next door"
-  - "suburban"
-  - "suburbs"
 author: keelan
 featured: false
 hidden: false

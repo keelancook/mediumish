@@ -7,8 +7,6 @@ categories:
   - "discipleship"
   - "gospel"
   - "kingdom"
-  - "kingdom of god"
-  - "the gospel"
 author: keelan
 featured: false
 hidden: false

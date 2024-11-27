@@ -4,10 +4,8 @@ title: "Here's a fun way to understand people group communities"
 date: "2015-09-21"
 categories: 
   - "church planting"
-  - "migration"
+  - "diaspora"
   - "missions"
-  - "people group communities"
-  - "people groups"
   - "peoples next door"
 author: keelan
 featured: false

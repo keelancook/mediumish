@@ -4,10 +4,8 @@ title: "Chiming in: \"The Unreached at Home\""
 date: "2015-09-16"
 categories: 
   - "church planting"
-  - "ethnic restaurants"
   - "gospel"
   - "missions"
-  - "people groups"
   - "peoples next door"
 author: keelan
 featured: false

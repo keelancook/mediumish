@@ -5,12 +5,8 @@ date: "2015-09-25"
 categories: 
   - "church planting"
   - "diaspora"
-  - "local church"
-  - "ministry"
-  - "missiology"
   - "missions"
   - "peoples next door"
-  - "team leader"
 author: keelan
 featured: false
 hidden: false

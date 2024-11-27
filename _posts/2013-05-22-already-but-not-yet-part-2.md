@@ -3,11 +3,10 @@ layout: post
 title: "Already, but not yet - Part 2"
 date: "2013-05-22"
 categories: 
-  - "christian-subculture"
   - "discipleship"
   - "hermeneutics"
   - "kingdom"
-  - "the-church"
+  - "church"
 author: keelan
 featured: false
 hidden: false
