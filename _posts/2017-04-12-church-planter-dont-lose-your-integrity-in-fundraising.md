@@ -4,7 +4,6 @@ title: "Church Planter, Don't Lose Your Integrity in Fundraising"
 date: "2017-04-12"
 categories: 
   - "church planting"
-  - "fundraising"
   - "missions"
   - "pastoral ministry"
 author: keelan

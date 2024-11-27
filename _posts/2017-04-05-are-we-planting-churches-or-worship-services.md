@@ -5,7 +5,6 @@ date: "2017-04-05"
 categories: 
   - "church planting"
   - "missions"
-  - "worship"
 author: keelan
 featured: false
 hidden: false
