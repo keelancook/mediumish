@@ -5,7 +5,8 @@ date: "2016-10-10"
 categories: 
   - "immigration"
   - "missions"
-  - "st louis"
+  - "diaspora"
+  - "demographics"
 author: keelan
 featured: false
 hidden: false

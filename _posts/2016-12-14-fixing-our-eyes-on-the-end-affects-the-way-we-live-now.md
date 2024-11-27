@@ -4,12 +4,10 @@ title: "Fixing Our Eyes on the End Affects the Way We Live Now"
 date: "2016-12-14"
 categories: 
   - "christ"
-  - "end times"
   - "eschatology"
   - "evangelism"
   - "gospel"
   - "great commission"
-  - "ministry"
   - "missions"
 author: keelan
 featured: false

@@ -3,9 +3,8 @@ layout: post
 title: "Does your church have a family tree?"
 date: "2016-10-26"
 categories: 
-  - "church family tree"
+  - "church planting"
   - "missions"
-  - "multiplication"
 author: keelan
 featured: false
 hidden: false

@@ -3,7 +3,6 @@ layout: post
 title: "I Miss My Soapbox..."
 date: "2010-01-23"
 categories:
-  - "uncategorized"
 author: keelan
 featured: false
 hidden: false

@@ -6,10 +6,8 @@ categories:
   - "christ"
   - "church"
   - "eschatology"
-  - "gospel"
   - "missions"
   - "theology of mission"
-  - "trinity"
 author: keelan
 featured: false
 hidden: false

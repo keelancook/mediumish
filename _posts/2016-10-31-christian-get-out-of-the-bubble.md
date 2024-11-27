@@ -6,8 +6,7 @@ categories:
   - "church"
   - "church planting"
   - "evangelism"
-  - "gospel"
-  - "ministry"
+  - "discipleship"
   - "peoples next door"
 author: keelan
 featured: false

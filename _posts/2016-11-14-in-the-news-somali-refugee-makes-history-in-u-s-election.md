@@ -5,8 +5,9 @@ date: "2016-11-14"
 categories: 
   - "church planting"
   - "missions"
-  - "somali"
-  - "somalia"
+  - "demographics"
+  - "diaspora"
+  - "peoples next door"
 author: keelan
 featured: false
 hidden: false

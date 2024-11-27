@@ -3,11 +3,9 @@ layout: post
 title: "Do You Read the Bible With Unbelievers?"
 date: "2016-10-07"
 categories: 
-  - "bible"
   - "bible study"
   - "evangelism"
   - "missions"
-  - "outreach"
 author: keelan
 featured: false
 hidden: false

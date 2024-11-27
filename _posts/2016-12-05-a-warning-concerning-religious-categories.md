@@ -5,7 +5,7 @@ date: "2016-12-05"
 categories: 
   - "culture"
   - "gospel"
-  - "muslims"
+  - "Islam"
   - "worldview"
 author: keelan
 featured: false

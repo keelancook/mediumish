@@ -3,8 +3,7 @@ layout: post
 title: "A Snapshot Biblical Theology of Missions"
 date: "2016-10-28"
 categories: 
-  - "bible"
-  - "biblical theology"
+  - "bible study"
   - "missions"
 author: Meredith Cook
 featured: false

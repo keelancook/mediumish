@@ -5,10 +5,9 @@ date: "2016-11-02"
 categories: 
   - "church planting"
   - "culture"
-  - "houston"
+  - "diaspora"
   - "immigration"
   - "missions"
-  - "people groups"
   - "peoples next door"
 author: keelan
 featured: false

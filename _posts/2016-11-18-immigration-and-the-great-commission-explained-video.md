@@ -3,11 +3,10 @@ layout: post
 title: "Immigration and the Great Commission Explained (VIDEO)"
 date: "2016-11-18"
 categories: 
-  - "bscnc"
   - "missions"
-  - "north carolina"
+  - "diaspora"
+  - "great commission"
   - "peoples next door"
-  - "video"
 author: keelan
 featured: false
 hidden: false
