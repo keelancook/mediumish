@@ -4,10 +4,7 @@ title: "Having a Bold Witness, Even When It Is Unpopular"
 date: "2017-07-10"
 categories: 
   - "evangelism"
-  - "how to be bold"
-  - "how to have a bold witness"
-  - "how to share the gospel"
-  - "witness"
+  - "missions"
 author: keelan
 featured: false
 hidden: false

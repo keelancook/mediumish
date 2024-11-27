@@ -4,9 +4,8 @@ title: "Church, This is Your Time... and Place"
 date: "2017-03-13"
 categories: 
   - "church"
-  - "city"
   - "contextualization"
-  - "mission"
+  - "missions"
 author: keelan
 featured: false
 hidden: false

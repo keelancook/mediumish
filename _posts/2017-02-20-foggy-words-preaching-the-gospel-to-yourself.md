@@ -6,7 +6,6 @@ categories:
   - "community"
   - "evangelism"
   - "gospel"
-  - "preach"
 author: keelan
 featured: false
 hidden: false

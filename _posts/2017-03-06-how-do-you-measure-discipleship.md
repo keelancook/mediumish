@@ -3,11 +3,8 @@ layout: post
 title: "How Do You Measure Discipleship?"
 date: "2017-03-06"
 categories: 
-  - "accountability"
-  - "church ministry"
-  - "disciples"
+  - "pastoral ministry"
   - "discipleship"
-  - "evaluation"
   - "leadership"
   - "missions"
 author: keelan

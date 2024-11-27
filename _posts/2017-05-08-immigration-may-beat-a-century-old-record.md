@@ -3,11 +3,10 @@ layout: post
 title: "Immigration may beat a century-old record"
 date: "2017-05-08"
 categories: 
-  - "america"
+  - "diaspora"
   - "church"
-  - "foreign born"
+  - "history"
   - "gospel"
-  - "hart cellar act"
   - "immigration"
   - "missions"
 author: keelan

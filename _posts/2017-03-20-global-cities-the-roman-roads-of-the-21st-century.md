@@ -4,10 +4,8 @@ title: "Global Cities: The Roman Roads of the 21st Century"
 date: "2017-03-20"
 categories: 
   - "church planting"
-  - "cities"
   - "diaspora"
   - "missions"
-  - "urban"
 author: keelan
 featured: false
 hidden: false

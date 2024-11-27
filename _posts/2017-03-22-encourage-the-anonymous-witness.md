@@ -3,11 +3,9 @@ layout: post
 title: "Encourage the Anonymous Witness"
 date: "2017-03-22"
 categories: 
-  - "early church"
   - "gospel"
   - "history"
   - "missions"
-  - "witness"
 author: keelan
 featured: false
 hidden: false

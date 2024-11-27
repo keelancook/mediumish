@@ -5,11 +5,8 @@ date: "2017-04-12"
 categories: 
   - "church planting"
   - "fundraising"
-  - "integrity"
-  - "missionary"
   - "missions"
-  - "pastor"
-  - "planter"
+  - "pastoral ministry"
 author: keelan
 featured: false
 hidden: false

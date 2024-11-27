@@ -3,10 +3,10 @@ layout: post
 title: "American churches, we have been here before with immigration."
 date: "2017-08-07"
 categories: 
-  - "home missions"
-  - "how to minister to immigrants"
-  - "immigrants and refugees"
-  - "local church ministry"
+  - "missions"
+  - "immigration"
+  - "diaspora"
+  - "history"
 author: keelan
 featured: false
 hidden: false

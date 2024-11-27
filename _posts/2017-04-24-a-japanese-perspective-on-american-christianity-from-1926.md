@@ -3,11 +3,9 @@ layout: post
 title: "A Japanese Perspective on American Christianity from 1926"
 date: "2017-04-24"
 categories: 
-  - "american christianity"
   - "gospel"
-  - "japan"
-  - "japanese christianity"
   - "missions"
+  - "history"
 author: keelan
 featured: false
 hidden: false

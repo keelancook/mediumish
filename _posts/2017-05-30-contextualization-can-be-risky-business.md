@@ -3,6 +3,7 @@ layout: post
 title: "Contextualization Can Be Risky Business"
 date: "2017-05-30"
 categories:
+  - "contextualization"
 author: Meredith Cook
 featured: false
 hidden: false
