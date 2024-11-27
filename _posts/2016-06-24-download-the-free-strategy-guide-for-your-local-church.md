@@ -3,6 +3,9 @@ layout: post
 title: "Download the Free Strategy Guide for Your Local Church"
 date: "2016-06-24"
 categories:
+  - "peoples next door"
+  - "diaspora"
+  - "missions"
 author: keelan
 featured: false
 hidden: false

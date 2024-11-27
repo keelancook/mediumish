@@ -4,7 +4,6 @@ title: "Church Community Has an Outward Focus Too"
 date: "2016-06-01"
 categories: 
   - "church"
-  - "community"
   - "mission"
 author: Marie Burrus
 featured: false

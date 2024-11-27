@@ -3,10 +3,8 @@ layout: post
 title: "Communicating across cultures is hard, but it is not impossible."
 date: "2016-05-06"
 categories: 
-  - "bible"
-  - "communication"
+  - "bible study"
   - "contextualization"
-  - "cross cultural"
   - "gospel"
   - "missions"
 author: keelan

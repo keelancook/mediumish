@@ -3,12 +3,8 @@ layout: post
 title: "Are We Really Loving Our Neighbors as We Should?"
 date: "2016-06-27"
 categories: 
-  - "gospel"
-  - "great-commandment"
-  - "great-commission"
-  - "ministry"
+  - "great commission"
   - "missions"
-  - "vocation"
 author: keelan
 featured: false
 hidden: false

@@ -3,6 +3,9 @@ layout: post
 title: "Church Planting is Not Church Franchising"
 date: "2016-07-06"
 categories:
+  - "church planting"
+  - "missions"
+  - "contextualization"
 author: keelan
 featured: false
 hidden: false

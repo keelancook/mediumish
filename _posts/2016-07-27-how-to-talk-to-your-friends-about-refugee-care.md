@@ -3,6 +3,8 @@ layout: post
 title: "How To Talk To Your Friends About Refugee Care"
 date: "2016-07-27"
 categories:
+  - "immigration"
+  - "diaspora"
 author: keelan
 featured: false
 hidden: false

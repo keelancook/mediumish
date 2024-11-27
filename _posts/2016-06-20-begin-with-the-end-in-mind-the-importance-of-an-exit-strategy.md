@@ -4,9 +4,7 @@ title: "Begin with the End in Mind: The Importance of an Exit Strategy"
 date: "2016-06-20"
 categories: 
   - "church"
-  - "exit strategy"
   - "missions"
-  - "outreach"
 author: keelan
 featured: false
 hidden: false

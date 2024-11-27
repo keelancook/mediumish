@@ -5,7 +5,6 @@ date: "2016-05-02"
 categories: 
   - "church planting"
   - "evangelism"
-  - "missional"
   - "missions"
 author: keelan
 featured: false

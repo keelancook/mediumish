@@ -3,6 +3,7 @@ layout: post
 title: "How to Deal With a World Full of Evil"
 date: "2016-07-08"
 categories:
+  - "discipleship"
 author: keelan
 featured: false
 hidden: false
