@@ -3,15 +3,7 @@ layout: post
 title: "Confessions of a 29-year-old"
 date: "2011-04-08"
 categories: 
-  - "birthday"
-  - "christ"
-  - "christian subculture"
   - "discipleship"
-  - "gifts"
-  - "god's sovereignty"
-  - "holidays"
-  - "parents"
-  - "plans"
   - "the bible"
 author: keelan
 featured: false

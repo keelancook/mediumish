@@ -4,7 +4,6 @@ title: "Dwelling on the things that are not"
 date: "2010-11-26"
 categories: 
   - "aha moments"
-  - "christian subculture"
 author: keelan
 featured: false
 hidden: false
