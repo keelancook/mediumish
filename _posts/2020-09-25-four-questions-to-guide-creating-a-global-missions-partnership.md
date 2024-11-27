@@ -3,7 +3,9 @@ layout: post
 title: "Four Questions to Guide Creating a Global Missions Partnership"
 date: "2020-09-25"
 author: keelan
-categories: [ global missions, international missions, missions, sending ]
+categories: 
+  - "missions"
+  - "pastoral ministry"
 featured: false
 hidden: false
 image: "https://images.unsplash.com/photo-1476304884326-cd2c88572c5f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1469&q=80"

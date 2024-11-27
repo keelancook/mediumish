@@ -3,7 +3,9 @@ layout: post
 title: "Seven Missionary Biographies and Why You Should Read One Now"
 date: "2020-03-28"
 author: keelan
-categories: [ missions, biography ]
+categories: 
+  - "missions"
+  - "history"
 featured: true
 hidden: false
 image: "https://images.unsplash.com/photo-1491841651911-c44c30c34548?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80"

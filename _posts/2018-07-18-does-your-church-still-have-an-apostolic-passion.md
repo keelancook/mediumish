@@ -3,10 +3,9 @@ layout: post
 title: "Does your church still have an apostolic passion?"
 date: "2018-07-18"
 categories: 
-  - "apostolic ministry"
   - "church planting"
-  - "how to reach a city"
-  - "local missions"
+  - "missions"
+  - "pastoral ministry"
 author: keelan
 featured: false
 hidden: false

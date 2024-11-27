@@ -3,8 +3,8 @@ layout: post
 title: "Bust the Peer Bubble in Your Church"
 date: "2019-03-25"
 categories: 
-  - "church ministry"
-  - "generational conflict in church"
+  - "pastoral ministry"
+  - "discipleship"
 author: Meredith Cook
 featured: false
 hidden: false

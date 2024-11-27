@@ -3,10 +3,9 @@ layout: post
 title: "But I tell you, love your enemies..."
 date: "2018-08-15"
 categories: 
-  - "christianethic"
   - "culture"
   - "gospel"
-  - "love your enemies"
+  - "bible study"
 author: keelan
 featured: false
 hidden: false

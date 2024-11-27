@@ -3,7 +3,9 @@ title: "Immigration by the Numbers"
 date: "2018-09-17"
 categories: 
   - "immigration"
-  - "multi ethnic church"
+  - "diaspora"
+  - "peoples next door"
+  - "demographics"
 author: keelan
 featured: false
 hidden: false

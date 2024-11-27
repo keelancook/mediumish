@@ -5,8 +5,7 @@ date: "2020-03-23"
 categories: 
   - "great commission"
   - "missions"
-  - "pathways"
-  - "sending"
+  - "sending church"
 author: keelan
 featured: false
 hidden: false

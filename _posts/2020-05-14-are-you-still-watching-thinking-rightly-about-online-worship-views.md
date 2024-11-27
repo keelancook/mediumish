@@ -3,7 +3,10 @@ layout: post
 title: "\"Are You Still Watching?\" Thinking Rightly About Online Worship Views"
 date: "2020-05-14"
 author: keelan
-categories: [ church, metrics, covid, church growth, membership ]
+categories: 
+  - "church"
+  - "church membership"
+  - "pastoral  ministry"
 featured: false
 hidden: false
 image: "https://images.unsplash.com/photo-1596405367208-63505402f113?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1548&q=80"
