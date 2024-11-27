@@ -3,11 +3,9 @@ layout: post
 title: "Here's to you: Christian ska music"
 date: "2011-04-13"
 categories: 
-  - "christian subculture"
   - "culture"
   - "funny"
   - "heres to you"
-  - "ska music"
 author: keelan
 featured: false
 hidden: false

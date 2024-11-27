@@ -3,12 +3,9 @@ layout: post
 title: "Here's to you: Christian t-shirts"
 date: "2011-06-27"
 categories: 
-  - "christian slogans"
-  - "christian subculture"
   - "culture"
   - "funny"
   - "heres to you"
-  - "t-shirts"
 author: keelan
 featured: false
 hidden: false

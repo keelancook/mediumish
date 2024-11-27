@@ -5,13 +5,8 @@ date: "2011-04-29"
 categories: 
   - "aha-moments"
   - "bible study"
-  - "christ"
   - "culture"
   - "discipleship"
-  - "god's sovereignty"
-  - "plans"
-  - "purpose"
-  - "the bible"
 author: keelan
 featured: false
 hidden: false

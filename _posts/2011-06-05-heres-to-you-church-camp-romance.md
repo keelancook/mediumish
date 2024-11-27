@@ -3,10 +3,8 @@ layout: post
 title: "Here's to you: Church camp romance"
 date: "2011-06-05"
 categories: 
-  - "christian subculture"
   - "funny"
   - "heres to you"
-  - "romance"
 author: keelan
 featured: false
 hidden: false

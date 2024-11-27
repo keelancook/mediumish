@@ -5,13 +5,9 @@ date: "2011-04-27"
 categories: 
   - "aha moments"
   - "bible study"
-  - "christ"
-  - "christian subculture"
   - "culture"
   - "discipleship"
   - "islam"
-  - "plans"
-  - "purpose"
   - "the bible"
 author: keelan
 featured: false
