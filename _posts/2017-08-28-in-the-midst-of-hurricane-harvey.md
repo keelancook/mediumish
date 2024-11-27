@@ -3,7 +3,6 @@ layout: post
 title: "In the midst of Hurricane Harvey"
 date: "2017-08-28"
 categories: 
-  - "disaster relief"
   - "pastoral ministry"
 author: keelan
 featured: false
