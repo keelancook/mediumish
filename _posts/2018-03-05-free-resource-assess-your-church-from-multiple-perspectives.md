@@ -3,11 +3,10 @@ layout: post
 title: "Free Resource: Assess Your Church from Multiple Perspectives"
 date: "2018-03-05"
 categories: 
-  - "church replant"
-  - "church revitalization"
-  - "exegete your community"
-  - "local church assessment"
-  - "local church ministry"
+  - "church"
+  - "revitalization"
+  - "missions"
+  - "resources"
 author: keelan
 featured: false
 hidden: false

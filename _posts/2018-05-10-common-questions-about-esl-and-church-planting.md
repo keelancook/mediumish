@@ -4,9 +4,10 @@ title: "Common Questions about ESL and Church Planting"
 date: "2018-05-10"
 categories: 
   - "church planting"
-  - "esl"
   - "missions"
-  - "teaching english"
+  - "immigration"
+  - "diaspora"
+  - "peoples next door"
 author: keelan
 featured: false
 hidden: false

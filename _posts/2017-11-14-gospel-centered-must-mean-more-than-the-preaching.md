@@ -5,8 +5,7 @@ date: "2017-11-14"
 categories: 
   - "evangelism"
   - "gospel"
-  - "gospel centered church"
-  - "gospel centered sermon"
+  - "pastoral ministry"
 author: keelan
 featured: false
 hidden: false

@@ -4,8 +4,7 @@ title: "A Thank You to Pastors (And an Encouragement to Their Members)"
 date: "2018-01-16"
 categories: 
   - "church"
-  - "pastoring"
-  - "shepherding"
+  - "pastoral ministry"
 author: meredith
 featured: false
 hidden: false

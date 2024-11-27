@@ -3,9 +3,6 @@ layout: post
 title: "Does our attitude need to be changed? Thoughts after Charlottesville."
 date: "2017-08-14"
 categories: 
-  - "charlottesville protests"
-  - "christian response to racism"
-  - "white supremacy"
 author: keelan
 featured: false
 hidden: false

@@ -3,11 +3,10 @@ layout: post
 title: "In the News: These are the groups most likely to stop participating in the US census"
 date: "2018-04-11"
 categories: 
-  - "citizenship status"
   - "immigration"
   - "missions"
-  - "people blindness"
-  - "us census"
+  - "diaspora"
+  - "peoples next door"
 author: keelan
 featured: false
 hidden: false

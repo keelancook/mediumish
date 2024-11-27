@@ -3,10 +3,9 @@ layout: post
 title: "Here's a Big List of Refugee Processing Centers Across the US"
 date: "2017-08-24"
 categories: 
-  - "how to care for refugees"
-  - "refugee processing centers"
-  - "refugee resettlement"
-  - "welcome refugees"
+  - "immigration"
+  - "diaspora"
+  - "peoples next door"
 author: keelan
 featured: false
 hidden: false

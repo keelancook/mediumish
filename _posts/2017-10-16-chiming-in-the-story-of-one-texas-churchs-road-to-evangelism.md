@@ -3,10 +3,10 @@ layout: post
 title: "Chiming In: The Story of One Texas Church's Road to Evangelism"
 date: "2017-10-16"
 categories: 
-  - "evangelism training"
-  - "how to be gospel centered"
-  - "how to focus on evangelism"
-  - "train your congregation to evangelize"
+  - "evangelism"
+  - "gospel"
+  - "discipleship"
+  - "pastoral ministry"
 author: keelan
 featured: false
 hidden: false

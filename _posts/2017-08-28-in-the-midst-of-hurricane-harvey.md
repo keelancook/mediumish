@@ -4,9 +4,7 @@ title: "In the midst of Hurricane Harvey"
 date: "2017-08-28"
 categories: 
   - "disaster relief"
-  - "houston flood"
-  - "how to help"
-  - "hurricane harvey disaster relief"
+  - "pastoral ministry"
 author: keelan
 featured: false
 hidden: false

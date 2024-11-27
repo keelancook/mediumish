@@ -3,11 +3,8 @@ layout: post
 title: "Falling into the Gambler's Fallacy in Church Ministry"
 date: "2017-10-12"
 categories: 
-  - "gamblers fallacy"
-  - "missiological method"
-  - "missions methods"
-  - "the christian mission"
-  - "what is the christian mission"
+  - "missions"
+  - "missions strategy"
 author: keelan
 featured: false
 hidden: false

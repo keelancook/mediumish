@@ -2,10 +2,7 @@
 title: "Condescension Poisons the Mission"
 date: "2017-08-17"
 categories: 
-  - "cgcs"
-  - "charlottesville"
   - "missions"
-  - "racism"
 author: keelan
 featured: false
 hidden: false
