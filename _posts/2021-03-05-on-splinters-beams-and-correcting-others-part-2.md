@@ -3,7 +3,10 @@ layout: post
 title: "Handle with Care: Christian Conflict on Social Media"
 date: "2021-03-05"
 author: keelan
-categories: [ conflict, correction, social media, spiritual formation ]
+categories: 
+  - "social media"
+  - "bible study"
+  - "discipleship"
 featured: false
 hidden: false
 image: "https://images.unsplash.com/photo-1554068292-ce72e2521c9f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80"

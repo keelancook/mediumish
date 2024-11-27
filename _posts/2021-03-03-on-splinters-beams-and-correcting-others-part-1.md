@@ -3,7 +3,10 @@ layout: post
 title: "On Splinters, Beams, and Correcting Others"
 date: "2021-03-03"
 author: keelan
-categories: [ conflict, correction, social media, spiritual formation ]
+categories: 
+  - "bible study"
+  - "discipleship"
+  - "social media"
 featured: false
 hidden: false
 image: "https://images.unsplash.com/photo-1525906336592-11c866dd1d4a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80"
