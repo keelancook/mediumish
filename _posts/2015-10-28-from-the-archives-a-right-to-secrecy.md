@@ -6,9 +6,7 @@ categories:
   - "archives"
   - "church"
   - "church planting"
-  - "community"
   - "missions"
-  - "secrecy"
 author: keelan
 featured: false
 hidden: false

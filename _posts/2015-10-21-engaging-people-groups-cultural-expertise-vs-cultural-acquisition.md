@@ -6,9 +6,7 @@ categories:
   - "church"
   - "church planting"
   - "culture"
-  - "missiology"
   - "missions"
-  - "missions strategy"
   - "peoples next door"
 author: keelan
 featured: false

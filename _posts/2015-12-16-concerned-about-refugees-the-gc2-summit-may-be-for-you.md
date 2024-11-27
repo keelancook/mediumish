@@ -4,12 +4,8 @@ title: "Concerned about refugees? The GC2 Summit may be for you."
 date: "2015-12-16"
 categories: 
   - "church planting"
-  - "gc2 summit"
-  - "immigrants"
   - "immigration"
-  - "migrants"
   - "missions"
-  - "refugees"
 author: keelan
 featured: false
 hidden: false

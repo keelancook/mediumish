@@ -5,9 +5,7 @@ date: "2015-11-18"
 categories: 
   - "church planting"
   - "gospel"
-  - "loneliness"
   - "peoples next door"
-  - "urban"
 author: keelan
 featured: false
 hidden: false

@@ -4,7 +4,6 @@ title: "Culture in 5 Easy-to-Understand Categories"
 date: "2015-10-23"
 categories: 
   - "church planting"
-  - "cultural acquisition"
   - "culture"
   - "missions"
   - "peoples next door"

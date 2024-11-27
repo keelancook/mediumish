@@ -5,8 +5,6 @@ date: "2015-11-20"
 categories: 
   - "church"
   - "church planting"
-  - "community"
-  - "cooperation"
   - "peoples next door"
 author: keelan
 featured: false

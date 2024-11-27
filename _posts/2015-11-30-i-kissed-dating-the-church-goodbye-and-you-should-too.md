@@ -4,8 +4,7 @@ title: "I Kissed \"Dating the Church\" Goodbye, and You Should Too"
 date: "2015-11-30"
 categories: 
   - "church"
-  - "god's will"
-  - "mission"
+  - "missions"
 author: keelan
 featured: false
 hidden: false

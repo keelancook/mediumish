@@ -5,10 +5,7 @@ date: "2015-11-23"
 categories: 
   - "evangelism"
   - "gospel"
-  - "gospel hospitality"
   - "hospitality"
-  - "proclamation"
-  - "table evangelism"
 author: keelan
 featured: false
 hidden: false

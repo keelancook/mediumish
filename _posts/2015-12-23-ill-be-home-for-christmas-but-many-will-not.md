@@ -3,13 +3,9 @@ layout: post
 title: "I'll Be Home for Christmas, But Many Will Not"
 date: "2015-12-23"
 categories: 
-  - "christmas"
-  - "gc2 summit"
   - "immigration"
   - "missions"
   - "peoples next door"
-  - "persecution"
-  - "refugees"
 author: keelan
 featured: false
 hidden: false

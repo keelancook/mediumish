@@ -5,7 +5,6 @@ date: "2015-11-13"
 categories: 
   - "church planting"
   - "evangelism"
-  - "gospel"
   - "missions"
   - "peoples next door"
 author: keelan

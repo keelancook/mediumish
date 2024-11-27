@@ -4,10 +4,8 @@ title: "How to Survive the Church as an Introvert"
 date: "2016-01-04"
 categories: 
   - "church"
-  - "community"
-  - "introversion"
-  - "introvert"
-  - "mission"
+  - "missions"
+  - "evangelism"
 author: keelan
 featured: false
 hidden: false

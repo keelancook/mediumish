@@ -3,14 +3,9 @@ layout: post
 title: "In the News: \"Demographic Destiny: 2050\""
 date: "2015-12-14"
 categories: 
-  - "africa"
-  - "asia"
   - "church planting"
   - "demographics"
-  - "ministry"
   - "missions"
-  - "news"
-  - "population"
 author: keelan
 featured: false
 hidden: false

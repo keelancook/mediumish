@@ -5,9 +5,7 @@ date: "2015-10-12"
 categories: 
   - "church planting"
   - "culture"
-  - "iceberg"
   - "missions"
-  - "people groups"
   - "peoples next door"
 author: keelan
 featured: false
