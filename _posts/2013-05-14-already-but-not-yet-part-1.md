@@ -5,8 +5,7 @@ date: "2013-05-14"
 categories: 
   - "christ"
   - "kingdom"
-  - "kingdom of god"
-  - "the church"
+  - "church"
 author: keelan
 featured: false
 hidden: false

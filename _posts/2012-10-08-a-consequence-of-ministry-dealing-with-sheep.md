@@ -4,11 +4,9 @@ title: "A Consequence of Ministry: Dealing with Sheep"
 date: "2012-10-08"
 categories:
   - "aha moments"
-  - "community"
   - "discipleship"
-  - "ministry"
-  - "sin"
-  - "the church"
+  - "pastoral ministry"
+  - "church"
 author: keelan
 featured: false
 hidden: false

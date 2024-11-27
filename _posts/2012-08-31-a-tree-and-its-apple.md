@@ -4,7 +4,6 @@ title: "A tree and its apple"
 date: "2012-08-31"
 categories: 
   - "discipleship"
-  - "purpose"
 author: keelan
 featured: false
 hidden: false

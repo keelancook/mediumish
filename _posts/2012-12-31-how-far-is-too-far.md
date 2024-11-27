@@ -4,9 +4,7 @@ title: "How far is too far?"
 date: "2012-12-31"
 categories: 
   - "bible study"
-  - "christian subculture"
   - "discipleship"
-  - "holiness"
 author: keelan
 featured: false
 hidden: false

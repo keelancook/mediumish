@@ -5,9 +5,6 @@ date: "2012-07-02"
 categories: 
   - "christ"
   - "culture"
-  - "sin"
-  - "television"
-  - "the gospel"
 author: keelan
 featured: false
 hidden: false

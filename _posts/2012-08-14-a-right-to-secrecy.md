@@ -3,12 +3,8 @@ layout: post
 title: "A Right to Secrecy"
 date: "2012-08-14"
 categories: 
-  - "christian subculture"
-  - "community"
   - "discipleship"
-  - "secrecy"
-  - "sin"
-  - "the church"
+  - "church"
 author: keelan
 featured: false
 hidden: false
