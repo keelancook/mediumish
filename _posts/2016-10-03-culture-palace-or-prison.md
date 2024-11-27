@@ -6,7 +6,6 @@ categories:
   - "contextualization"
   - "culture"
   - "missions"
-  - "people groups"
 author: keelan
 featured: false
 hidden: false

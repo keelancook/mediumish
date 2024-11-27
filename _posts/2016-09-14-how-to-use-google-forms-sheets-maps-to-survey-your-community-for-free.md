@@ -4,11 +4,8 @@ title: "How to Use Google Forms, Sheets, & Maps to Survey Your Community (For Fr
 date: "2016-09-14"
 categories: 
   - "church"
-  - "engagement"
-  - "mapping"
+  - "demographics"
   - "missions"
-  - "people group discovery"
-  - "people groups"
   - "peoples next door"
 author: keelan
 featured: false

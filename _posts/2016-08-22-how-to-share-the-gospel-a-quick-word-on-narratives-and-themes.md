@@ -4,11 +4,7 @@ title: "How to Share the Gospel: A Quick Word on Narratives and Themes"
 date: "2016-08-22"
 categories: 
   - "evangelism"
-  - "gods-story"
-  - "gospel"
   - "missions"
-  - "narrative"
-  - "themes"
 author: keelan
 featured: false
 hidden: false

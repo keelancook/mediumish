@@ -3,9 +3,9 @@ layout: post
 title: "Church, Stop Measuring Yourself by Past Success"
 date: "2016-09-23"
 categories: 
-  - "context"
+  - "contextualization"
   - "culture"
-  - "local church"
+  - "church"
   - "missions"
   - "revitalization"
 author: keelan

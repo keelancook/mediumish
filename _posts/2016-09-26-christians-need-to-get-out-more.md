@@ -5,10 +5,7 @@ date: "2016-09-26"
 categories: 
   - "evangelism"
   - "gospel"
-  - "ministry"
   - "missions"
-  - "relationships"
-  - "third place"
 author: keelan
 featured: false
 hidden: false

@@ -4,10 +4,7 @@ title: "Four Factors for Leadership Development in Local Churches"
 date: "2016-10-05"
 categories: 
   - "church"
-  - "leaders"
   - "leadership"
-  - "leadership development"
-  - "local church"
   - "missions"
 author: keelan
 featured: false

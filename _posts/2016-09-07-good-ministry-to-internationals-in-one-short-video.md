@@ -4,7 +4,6 @@ title: "Good Ministry to Internationals in One, Short Video"
 date: "2016-09-07"
 categories: 
   - "bible study"
-  - "church ministry"
   - "diaspora"
   - "evangelism"
   - "missions"

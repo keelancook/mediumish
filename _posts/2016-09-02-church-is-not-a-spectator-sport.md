@@ -5,9 +5,7 @@ date: "2016-09-02"
 categories: 
   - "church"
   - "discipleship"
-  - "football"
   - "missions"
-  - "teaching"
 author: keelan
 featured: false
 hidden: false

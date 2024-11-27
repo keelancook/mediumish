@@ -4,10 +4,10 @@ title: "Chiming In: 99% of Immigrants Feel More Welcome After a Dinner"
 date: "2016-09-16"
 categories: 
   - "hospitality"
-  - "immigrants"
+  - "immigration"
+  - "demographics"
   - "missions"
   - "peoples next door"
-  - "refugees"
 author: keelan
 featured: false
 hidden: false
