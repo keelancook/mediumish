@@ -28,7 +28,9 @@ North Carolina is a rapidly growing state. If you're local to the state, that's 
 
 Estimates from [Carolina Demography](https://carolinademography.cpc.unc.edu/) project a population over 12 million by 2035. That's a far cry from where the state was a couple of decades ago.
 
-![Retirement Graph 1](assets/images/post-images/retirement-graph-1.png)
+![Retirement Graph 1](/assets/images/post-images/retirement-graph-1.png)
+
+<img src="/assets/images/post-images/retirement-graph-1.png">
 
 Of course, North Carolina is home to several trendy areas for young professionals. Charlotte and Raleigh are both epicenters for job creation right now. So, it's a common assumption by many that our growth is fueled by college-age or young professionals streaming into the area hoping for their big break. 
 
