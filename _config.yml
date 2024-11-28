@@ -19,7 +19,7 @@ authors:
   keelan:
     name: Keelan Cook
     display_name: Keelan
-    avatar: 'assets/images/meredith-avatar.png'
+    avatar: 'assets/images/keelan-avatar.png'
     gravatar: keelancook
     email: kcook@sebts.edu
     web: https://keelancook.com
@@ -28,7 +28,7 @@ authors:
   meredith:
     name: Meredith Cook
     display_name: Meredith
-    avatar: 'assets/images/avatar.png'
+    avatar: 'assets/images/meredith-avatar.png'
     gravatar: b1cc14991db7a456fcd761680bbc8f81
     email: meredithcook@proton.me
     web: https://meredithcook.net
