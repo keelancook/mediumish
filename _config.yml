@@ -23,7 +23,7 @@ authors:
     gravatar: keelancook
     email: kcook@sebts.edu
     web: https://keelancook.com
-    twitter: https://bsky.app/profile/keelancook.com
+    twitter: https://bsky.app/profile/keelancook.com #the code here says twitter, but this is the follow link in an author bio. It can be any website link, it appears.
     description: "Keelan Cook is the George Liele Director for the Center for Great Commission studies. He also serves as Instructor of Missiology at Southeastern Baptist Theological Seminary."
   meredith:
     name: Meredith Cook
@@ -32,7 +32,7 @@ authors:
     gravatar: b1cc14991db7a456fcd761680bbc8f81
     email: meredithcook@proton.me
     web: https://meredithcook.net
-    twitter: https://twitter.com/meredithcook716
+    twitter: https://meredithcook.net #the code here says twitter, but this is the follow link in an author bio. It can be any website link, it appears.
     description: "This is the author box. Write a short description of the author here."
 
 # Plugins
