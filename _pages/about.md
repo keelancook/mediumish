@@ -48,10 +48,12 @@ image: assets/images/family-photo.jpg
 
 <ul style="list-style-type:none;">
   <li><a rel="me" target="_blank" href="mailto:kcook@sebts.edu"><i class="fa fa-envelope"></i> Email</a></li>
-  <li><a rel="me" target="_blank" href="https://bsky.app/profile/keelancook.com"><i class="fas fa-pen-nib"></i> Facebook</a></li>
+  <li><a rel="me" target="_blank" href="https://bsky.app/profile/keelancook.com"><i class="fas fa-pen-nib"></i> BlueSky</a></li>
   <li><a rel="me" target="_blank" href="https://facebook.com/keelancook"><i class="fab fa-facebook"></i> Facebook</a></li>
   <li><a rel="me" target="_blank" href="https://linkedin.com/in/keelancook"><i class="fab fa-linkedin"></i> LinkedIn</a></li>
 
+
+>>>>>>> d40dccdc15c0abbb782d292a3b1a7ef430ba17a3
 </ul>
 
 <h5>Buy Some Books</h5>
