@@ -1,6 +1,6 @@
 ---
 title: "The Great Commission Post-Retirement"
-date: "2024-12-02"
+date: "2024-11-20"
 categories:
   - "demographics"
   - "culture"
@@ -9,7 +9,7 @@ categories:
 author: keelan
 featured: false
 hidden: false
-image: 
+image: "https://images.unsplash.com/photo-1473679408190-0693dd22fe6a?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
 rating: 
 beforetoc: 
 toc: false
