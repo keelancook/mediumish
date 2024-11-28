@@ -1,6 +1,6 @@
 ---
 title: "The Great Commission Post-Retirement"
-date: "2024-11-20"
+date: "2024-12-02"
 categories:
   - "demographics"
   - "culture"
@@ -14,8 +14,6 @@ rating:
 beforetoc: 
 toc: false
 ---
-
-# The Great Commission Post-Retirement
 
 A couple of months ago, I made the mistake of posting an off-handed comment on Facebook. The next thing I knew, I was in meetings with some folk from our state convention in North Carolina talking missions strategy about that off-handed comment.
 
