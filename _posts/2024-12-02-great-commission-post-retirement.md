@@ -13,6 +13,7 @@ image: "https://images.unsplash.com/photo-1473679408190-0693dd22fe6a?q=80&w=1740
 rating: 
 beforetoc: 
 toc: false
+comments: false
 ---
 
 A couple of months ago, I made the mistake of posting an off-handed comment on Facebook. The next thing I knew, I was in meetings with some folk from our state convention in North Carolina talking missions strategy about that off-handed comment.
