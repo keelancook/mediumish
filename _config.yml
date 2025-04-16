@@ -7,7 +7,6 @@ favicon: 'assets/images/favicon.ico'
 baseurl: /mediumish
 google_analytics: 'UA-46278016-1'
 disqus: ''
-comments: false
 mailchimp-list: 'https://keelancook.us18.list-manage.com/subscribe/post?u=c5bc34a16760b316bee44bff4&amp;id=dfa9780140&amp;f_id=00a98ae6f0'
 include: ["_pages"]
 permalink: /:year/:month/:day/:title/
