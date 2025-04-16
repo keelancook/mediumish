@@ -17,7 +17,7 @@ comments: false
 <p></p>
 <p>The commonplace book has a long history and deep roots. For hundreds of years, scholars, writers, and thinkers carried what amounts to a scrapbook that they used to compile all of their notes.</p>
 
-<p>Primarily, the notes in <a target="_blank" href="https://keelan.wiki">my commonplace book</a> will deal with topics of theology and ministry. By thinking in public, instead of keeping these notes closed up, I hope my thoughts here will benefit others. And perhaps, these thoughts will be sharpened as well.</p>
+<p>Primarily, the notes in <a target="_blank" href="https://notes.keelancook.com/">my commonplace book</a> will deal with topics of theology and ministry. By thinking in public, instead of keeping these notes closed up, I hope my thoughts here will benefit others. And perhaps, these thoughts will be sharpened as well.</p>
 
 <hr>
 
