@@ -21,8 +21,10 @@
 # Algolia algolia-site-verification
     <meta name="algolia-site-verification"  content="A344916F5C69A7DA" />
 # InstantSearch.js for Algolia Search
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/instantsearch.css@7/themes/algolia-min.css" />
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/instantsearch.css@7/themes/algolia-min.css" />
+<script src="https://cdn.jsdelivr.net/npm/algoliasearch@4/dist/algoliasearch-lite.umd.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/instantsearch.js@4"></script>
+
 
 
 </head>
@@ -94,7 +96,8 @@ ga('send', 'pageview');
                 <a class="nav-link" href="{{ site.baseurl }}/cv">CV</a>
                 </li>
 
-                {% include search-algolia.html %}
+                <div id="searchbox" class="form-inline my-2 my-lg-0 ml-auto"></div>
+                <!--{% include search-algolia.html %}-->
 
                 <!--{% include search-google.html %}-- This is the basic google search that does work but down not look native-->
 
