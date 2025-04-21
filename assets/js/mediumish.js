@@ -137,32 +137,35 @@ document.addEventListener('DOMContentLoaded', function() {
     indexName: 'keelancook_com_qfgqsfjmlx_articles',
     searchClient: algoliasearch('QFGQSFJMLX', '4b5b38587dd28c6ad916643e7d25252d'),
   });
-
-  search.addWidget(
-    instantsearch.widgets.searchBox({
-      container: '#searchbox',
-      placeholder: 'Search...',
-      showReset: true,
-      showSubmit: false,
-      showLoadingIndicator: false,
-    })
-  );
-
-  search.addWidget(
-    instantsearch.widgets.hits({
-      container: '#search-results',
-      templates: {
-        item: `
-          <div class="ais-Hits-item">
-            <a href="{{ url }}">
-              <h5>{{ title }}</h5>
-              <p>{{ excerpt }}</p>
-            </a>
-          </div>
-        `,
-      },
-    })
-  );
-
-  search.start();
+// Custom search box widget
+const customSearchBox = instantsearch.connectors.connectSearchBox(function(renderOptions, isFirstRender) {
+  const { query, refine } = renderOptions;
+  const input = document.getElementById('search-input');
+  if (isFirstRender) {
+    input.addEventListener('input', event => {
+      refine(event.target.value);
+    });
+  }
+  input.value = query;
 });
+
+search.addWidgets([
+  customSearchBox({}),
+  instantsearch.widgets.hits({
+    container: '#search-results',
+    templates: {
+      item: `
+        <div class="ais-Hits-item">
+          <a href="{{ url }}">
+            <h5>{{ title }}</h5>
+            <p>{{ excerpt }}</p>
+          </a>
+        </div>
+      `,
+    },
+  }),
+]);
+
+search.start();
+});
+</script>

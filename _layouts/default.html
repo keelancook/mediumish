@@ -96,13 +96,11 @@ ga('send', 'pageview');
                 <a class="nav-link" href="{{ site.baseurl }}/cv">CV</a>
                 </li>
 
-                <!--{% include search-algolia.html %}-->
+                {% include search-algolia.html %}
 
                 <!--{% include search-google.html %}-- This is the basic google search that does work but down not look native-->
 
             </ul>
-
-            <div id="searchbox" class="form-inline my-2 my-lg-0 ml-auto"></div>
 
             <!-- End Menu -->
 
@@ -112,13 +110,6 @@ ga('send', 'pageview');
 </nav>
 <!-- End Navigation
 ================================================== -->
-
-<!-- Begin Search Results Containter
-================================================== -->
-<div id="search-results"></div>
-<!-- End Search Results Containter
-================================================== -->
-
 
 <div class="site-content">
 
@@ -132,6 +123,12 @@ ga('send', 'pageview');
         {{ site.description }}
     </p>
 </div>
+
+<!-- Begin Search Results Containter
+================================================== -->
+<div id="search-results" class="search-results-container"></div>
+<!-- End Search Results Containter
+================================================== -->
 
 <!-- Content
 ================================================== -->
