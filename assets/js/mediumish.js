@@ -131,36 +131,38 @@ else window.addEventListener('load', loadDeferredStyles);
 
 
 // initialize InstantSearch.js
-const search = instantsearch({
-  indexName: 'keelancook_com_qfgqsfjmlx_articles',
-  searchClient: algoliasearch('QFGQSFJMLX', '4b5b38587dd28c6ad916643e7d25252d'),
+
+document.addEventListener('DOMContentLoaded', function() {
+  const search = instantsearch({
+    indexName: 'keelancook_com_qfgqsfjmlx_articles',
+    searchClient: algoliasearch('QFGQSFJMLX', '4b5b38587dd28c6ad916643e7d25252d'),
+  });
+
+  search.addWidget(
+    instantsearch.widgets.searchBox({
+      container: '#searchbox',
+      placeholder: 'Search...',
+      showReset: true,
+      showSubmit: false,
+      showLoadingIndicator: false,
+    })
+  );
+
+  search.addWidget(
+    instantsearch.widgets.hits({
+      container: '#search-results',
+      templates: {
+        item: `
+          <div class="ais-Hits-item">
+            <a href="{{ url }}">
+              <h5>{{ title }}</h5>
+              <p>{{ excerpt }}</p>
+            </a>
+          </div>
+        `,
+      },
+    })
+  );
+
+  search.start();
 });
-
-search.addWidget(
-  instantsearch.widgets.searchBox({
-    container: '#search-input',
-    placeholder: 'Search...',
-    showReset: true,
-    showSubmit: false,
-    showLoadingIndicator: false,
-  })
-);
-
-search.addWidget(
-  instantsearch.widgets.hits({
-    container: '#search-results',
-    templates: {
-      item: `
-        <div class="ais-Hits-item">
-          <a href="{{ url }}">
-            <h5>{{ title }}</h5>
-            <p>{{ excerpt }}</p>
-          </a>
-        </div>
-      `,
-    },
-  })
-);
-
-search.start();
-
