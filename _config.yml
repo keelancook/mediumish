@@ -46,7 +46,7 @@ plugins:
 # Search
 algolia:
   application_id: QFGQSFJMLX
-  index_name: algolia-mediumish-index
+  index_name: keelancook_com_qfgqsfjmlx_articles
   search_only_key: 4b5b38587dd28c6ad916643e7d25252d
 
 
