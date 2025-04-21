@@ -25,9 +25,11 @@
 <script src="https://cdn.jsdelivr.net/npm/algoliasearch@4/dist/algoliasearch-lite.umd.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/instantsearch.js@4"></script>
 
-
-
 </head>
+
+
+
+
 
 {% if jekyll.environment == 'production' %}
 <!-- change your GA id in _config.yml -->
@@ -106,6 +108,12 @@ ga('send', 'pageview');
 
     </div>
 
+    <!-- Begin Search Results Containter
+================================================== -->
+<div id="search-results" class="search-results-container"></div>
+<!-- End Search Results Containter
+================================================== -->
+
     </div>
 </nav>
 <!-- End Navigation
@@ -123,12 +131,6 @@ ga('send', 'pageview');
         {{ site.description }}
     </p>
 </div>
-
-<!-- Begin Search Results Containter
-================================================== -->
-<div id="search-results" class="search-results-container"></div>
-<!-- End Search Results Containter
-================================================== -->
 
 <!-- Content
 ================================================== -->
