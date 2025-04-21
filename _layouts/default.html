@@ -217,5 +217,49 @@ ga('send', 'pageview');
 <script id="dsq-count-scr" src="//{{site.disqus}}.disqus.com/count.js"></script>
 {% endif %}
 
+<!--Initializing InstantSearch.js and using Algolia-->
+<script src="https://cdn.jsdelivr.net/npm/algoliasearch@4/dist/algoliasearch-lite.umd.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/instantsearch.js@4"></script>
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    const search = instantsearch({
+      indexName: 'YOUR_INDEX_NAME',
+      searchClient: algoliasearch('YOUR_APP_ID', 'YOUR_SEARCH_ONLY_API_KEY'),
+    });
+
+    // Custom search box widget
+    const customSearchBox = instantsearch.connectors.connectSearchBox(function(renderOptions, isFirstRender) {
+      const { query, refine } = renderOptions;
+      const input = document.getElementById('search-input');
+      if (isFirstRender) {
+        input.addEventListener('input', event => {
+          refine(event.target.value);
+        });
+      }
+      input.value = query;
+    });
+
+    search.addWidgets([
+      customSearchBox({}),
+      instantsearch.widgets.hits({
+        container: '#search-results',
+        templates: {
+          item: `
+            <div class="ais-Hits-item">
+              <a href="{{ url }}">
+                <h5>{{ title }}</h5>
+                <p>{{ excerpt }}</p>
+              </a>
+            </div>
+          `,
+        },
+      }),
+    ]);
+
+    search.start();
+  });
+</script>
+
+
 </body>
 </html>
