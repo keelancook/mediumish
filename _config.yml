@@ -42,7 +42,14 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-archives
-    
+
+# Search
+algolia:
+  application_id: YOUR_APP_ID
+  index_name: YOUR_INDEX_NAME
+  search_only_key: YOUR_SEARCH_KEY
+
+
 # Archives
 jekyll-archives:
   enabled:
