@@ -45,9 +45,9 @@ plugins:
 
 # Search
 algolia:
-  application_id: YOUR_APP_ID
-  index_name: YOUR_INDEX_NAME
-  search_only_key: YOUR_SEARCH_KEY
+  application_id: QFGQSFJMLX
+  index_name: algolia-mediumish-index
+  search_only_key: 4b5b38587dd28c6ad916643e7d25252d
 
 
 # Archives

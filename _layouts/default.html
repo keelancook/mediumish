@@ -90,9 +90,9 @@ ga('send', 'pageview');
                 <a class="nav-link" href="{{ site.baseurl }}/cv">CV</a>
                 </li>
 
-                <!-- {% include search-lunr.html %}-- This is the lunr search line that puts the search bar in the menu. It's not presently working, so I replaced it with a google search.-->
+                {% include search-algolia.html %}
 
-                {% include search-google.html %}
+                <!--{% include search-google.html %}-- This is the basic google search that does work but down not look native-->
 
             </ul>
 
